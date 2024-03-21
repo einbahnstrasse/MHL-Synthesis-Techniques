@@ -157,17 +157,17 @@ week-01-topic: MaxMSP Patching Fundamentals
 week-02-topic: Generic Waveforms and Filters         
 week-03-topic: Introduction to Additive Synthesis        
 week-04-topic: Modulation Synthesis             
-week-05-topic: Realtime Treatments on a Live Input Signal            
-week-06-topic: Advanced Additive Synthesis         
-week-07-topic: Subtractive Synthesis    
+week-05-topic: Real-Time Treatments on a Live Input Signal            
+week-06-topic: Subtractive Synthesis         
+week-07-topic: Wavetables and Waveshaping (Distortion)    
 week-08-topic: Event Management
-week-09-topic: Wavetables               
-week-10-topic: Waveshaping (Distortion Synthesis)          
+week-09-topic: Interface Design — MIDI and MiraWeb                 
+week-10-topic: Introduction to Computer-Assisted Composition (CAO)          
 week-11-topic: Sampling     
 week-12-topic: Granular Synthesis          
 week-13-topic: Real-Time Frequency Domain Signal Processing    
 week-14-topic: Multichannel Spatial Audio       
-week-15-topic: Computer-Assisted Composition (CAO)     
+week-15-topic: Project Presentations       
 # week-16-topic: n/a     
 # week-17-topic: n/a  
 
