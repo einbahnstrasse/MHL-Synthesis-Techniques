@@ -11,19 +11,19 @@ toc: true
 toc_label: "Syllabus Contents" 
 toc_icon: "book-open"  
 toc_sticky: true   
-sidebar:
-  - title: "3D Mesh"
-    image: "/assets/images/modalys.klein.bottle.v01.png"  
-    image_alt: "3D Mesh"  
-    text: "Model geometry for resonating objects."  
-  - title: "Digital Waveguides"  
-    image_alt: "Ideal String"  
-    image: "/assets/images/ideal.string.v01.png"  
-    text: "Waveguide model of an ideal string."  
-  - title: "Particle Attractors"  
-    image_alt: "Particle Attractors"  
-    image: "/assets/images/mi-gen.particle.attractors.v01.png"  
-    text: "Gravity pulls particles towards oscillators."  
+# sidebar:
+#   - title: "3D Mesh"
+#     image: "/assets/images/modalys.klein.bottle.v01.png"  
+#     image_alt: "3D Mesh"  
+#     text: "Model geometry for resonating objects."  
+#   - title: "Digital Waveguides"  
+#     image_alt: "Ideal String"  
+#     image: "/assets/images/ideal.string.v01.png"  
+#     text: "Waveguide model of an ideal string."  
+#   - title: "Particle Attractors"  
+#     image_alt: "Particle Attractors"  
+#     image: "/assets/images/mi-gen.particle.attractors.v01.png"  
+#     text: "Gravity pulls particles towards oscillators."  
 read_time: true  
 show_date: true  
 date_format: "%Y-%m-%d"  
@@ -70,7 +70,7 @@ last_modified_at: 2024-03-20
 
 ## 2. Course Description    
 
-**Sound Synthesis Techniques and Creative Coding** is an introductory, first-semester MaxMSP course and creation lab designed for student musicians (without a background in coding) who are interested in the manipulation of sound and music. MaxMSP is a visual programming environment optimized for creative coding and the generation of sound and video signals. With a focus on the musical materials for composition, improvisation, and performance, students will complete their own small projects by the end of the semester with the aid of weekly topics modules and occasional assignments that focuses on understanding a variety of different kinds of synthesis methods used in the twentieth century. Topics may include: basic waveforms and filters; wavetables; amplitude, frequency, and ring modulation; additive and subtractive synthesis; sampling; microsound (granulation); audio spatialization; and the design of practical performance interfaces, monophonic and polyphonic synthesizers. Weekly group coding in MaxMSP will deepen understanding of each topic area, supported by occasional video tutorials and listening. Projects will be evaluated based on creative and personal implementations of synthesis techniques. Although no formal prerequisite exists for this course, prior completion of Electronic Studio Methods and Composition is generally advised. Taught by Dr. Louis Goldford and offered in English.
+**Synthesis Techniques and Creative Coding** is an introductory, first-semester MaxMSP course and creation lab designed for student musicians (without a background in coding) who are interested in the manipulation of sound and music. MaxMSP is a visual programming environment optimized for creative coding and the generation of sound and video signals. With a focus on the musical materials for composition, improvisation, and performance, students will complete their own small projects by the end of the semester with the aid of weekly topics modules and occasional assignments that focuses on understanding a variety of different kinds of synthesis methods used in the twentieth century. Topics may include: basic waveforms and filters; wavetables; amplitude, frequency, and ring modulation; additive and subtractive synthesis; sampling; microsound (granulation); audio spatialization; and the design of practical performance interfaces, monophonic and polyphonic synthesizers. Weekly group coding in MaxMSP will deepen understanding of each topic area, supported by occasional video tutorials and listening. Projects will be evaluated based on creative and personal implementations of synthesis techniques. Although no formal prerequisite exists for this course, prior completion of Electronic Studio Methods and Composition is generally advised. Taught by Dr. Louis Goldford and offered in English.
 
 ### 2.1 Course Goals      
 

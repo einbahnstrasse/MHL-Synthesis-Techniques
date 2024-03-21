@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Summer 2024 | Tuesdays 10:00—11:30 | Electronic Music Studio    
 twitter_username: einbahnstrasse  
 github_username: einbahnstrasse  
-minimal_mistakes_skin: mint   
+minimal_mistakes_skin: sunrise      
 search: true
 lunr:  
   search_within_pages: true   
@@ -153,22 +153,21 @@ week-15: 9 July
 # week-16: n/a     
 # week-17: n/a  
 
-week-01-topic: Digital Filters Revisited   
-week-02-topic: Resonance       
-week-03-topic: Formant Modeling (Larynx)      
-week-04-topic: Introduction to <gen~>       
-week-05-topic: The Karplus-Strong Algorithm      
-week-06-topic: Waveguide String Model      
-week-07-topic: Bowed String Model (Julius O. Smith)      
-week-08-topic: A Simple Flute Model   
-week-09-topic: Introduction to Modalys~ in MaxMSP        
-# do some basic string model here?         
-week-10-topic: Plate Excited By A Strike Force       
-week-11-topic: Transducing the Plate Model       
-week-12-topic: 3D Meshes in Modalisp           
-week-13-topic: Introdution to mi-gen~      
-week-14-topic: mi-gen~ (Part 2)       
-week-15-topic: mi-gen~ (Part 3)         
+week-01-topic: MaxMSP Patching Fundamentals     
+week-02-topic: Generic Waveforms and Filters         
+week-03-topic: Introduction to Additive Synthesis        
+week-04-topic: Ring and Amplitude Modulation            
+week-05-topic: Frequency Modulation          
+week-06-topic: Advanced Additive Synthesis         
+week-07-topic: Subtractive Synthesis    
+week-08-topic: Computer-Assisted Composition (CAO)
+week-09-topic: Wavetables               
+week-10-topic: Waveshaping (Distortion Synthesis)          
+week-11-topic: Sampling     
+week-12-topic: Granular Synthesis          
+week-13-topic: Real-Time Frequency Domain Signal Processing    
+week-14-topic: Multichannel Spatial Audio       
+week-15-topic: Event Management         
 # week-16-topic: n/a     
 # week-17-topic: n/a  
 
