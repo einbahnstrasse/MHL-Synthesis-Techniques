@@ -63,15 +63,16 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 #### Assignments _(always due before the next class!)_   
 * Install + Authorize MaxMSP    
-* Review new **terms** and **shortcuts**:  
-  - patch  
-  - object box (cmd. + n)  
-  - patch cable (or patch cord)   
-  - lock (cmd. + e) 
-  - message box (m)  
-  - comment box (c)  
-  - control rate (Max)  
-  - signal rate (MSP)  
+
+#### New **terms** and **shortcuts**  
+- patch  
+- object box (cmd. + n)  
+- patch cable (or patch cord)   
+- lock (cmd. + e) 
+- message box (m)  
+- comment box (c)  
+- control rate (Max)  
+- signal rate (MSP)  
 
 * * *
 
