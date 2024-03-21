@@ -36,7 +36,7 @@ last_modified_at: 2024-03-20
 <!-- <img src="/Goldford-MTEC1003/assets/organized.gif" alt="organized" width="400" align="right"> -->
 
 <!-- # Schedule -->
-_This page will be updated frequently with examples, video tutorials, links to new resources, and occasional updates to LAB ASSIGNMENTS. Our schedule follows the [Current MHL Academic Calendar]({{ site.MHL-calendar }}){:target="_blank"}. The following topics and their precise order may change. Check here for updates!_  
+_This page will be updated frequently with examples, video tutorials, links to new resources, and occasional updates to ASSIGNMENTS. Our schedule follows the [Current MHL Academic Calendar]({{ site.MHL-calendar }}){:target="_blank"}. The following topics and their precise order may change. Check here for updates!_  
 
 * * *
 
@@ -63,13 +63,15 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 #### Assignments _(always due before the next class!)_   
 * Install + Authorize MaxMSP    
-* Install the CNMAT Externals package (_Search for_ `CNMAT Externals` _in Package Manager. See instructions for using the Max Package Manager on our Software + Resources page_.)   
-* [Filter Characteristics (Digital Filter Basics)](https://youtu.be/autPNZ9XMa4?si=1FTZB6r6q1NZ5ymU){:target="_blank"}         
-
-{% include video id="autPNZ9XMa4?si=pl-cVyLcmF4pHsWW" provider="youtube" %}    
-* [Test Signals (Digital Filter Basics)](https://youtu.be/ItYpQ7hMupQ?si=6lK6s9uRPHI5T4Ck){:target="_blank"}         
-
-{% include video id="ItYpQ7hMupQ?si=6lK6s9uRPHI5T4Ck" provider="youtube" %}    
+* Review new **terms** and **shortcuts**:  
+  - patch  
+  - object box (cmd. + n)  
+  - patch cable (or patch cord)   
+  - lock (cmd. + e) 
+  - message box (m)  
+  - comment box (c)  
+  - control rate (Max)  
+  - signal rate (MSP)  
 
 * * *
 
