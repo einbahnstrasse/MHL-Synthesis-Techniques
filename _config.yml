@@ -1,0 +1,180 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Synthesis Techniques and Creative Coding   
+email: Louis.Goldford@mh-luebeck.de  
+description: >- # this means to ignore newlines until "baseurl:"
+  Summer 2024 | Tuesdays 10:00—11:30 | Electronic Music Studio    
+twitter_username: einbahnstrasse  
+github_username: einbahnstrasse  
+minimal_mistakes_skin: mint   
+search: true
+lunr:  
+  search_within_pages: true   
+
+# baseurl: MHL-Synthesis-Techniques # needs to be commented out!  
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  # - jekyll-toc  
+
+author:
+  name   : "Louis Goldford"
+  avatar : "/assets/images/Goldford.square.sm.jpg"
+  bio    : "composer"
+  links:
+    - label: "Portfolio"
+      icon: "fas fa-fw fa-link"
+      url: "https://louisgoldford.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/einbahnstrasse"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/einbahnstrasse"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/louis.goldford"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/einbahnstrasse"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/einbahnstrasse"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/louis.goldford"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      # words_per_minute: 200
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  # toc_levels: 1..6
+  toc_levels: 2..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Schedule-specific variables   
+
+weekly-deadline-statement: Unless otherwise noted, assignments are always due online on GitHub at 11:59 PM the following Monday night each week!
+MHL-calendar: https://www.mh-luebeck.de/studium/termine-und-fristen/
+
+week-01: 2 April   
+week-02: 9 April   
+week-03: 16 April  
+week-04: 23 April   
+week-05: 30 April  
+week-06: 7 May  
+week-07: 14 May    
+week-08: 21 May  
+week-09: 28 May     
+week-10: 4 June   
+week-11: 11 June   
+week-12: 18 June     
+week-13: 25 June  
+week-14: 2 July     
+week-15: 9 July     
+# week-16: n/a     
+# week-17: n/a  
+
+week-01-topic: Digital Filters Revisited   
+week-02-topic: Resonance       
+week-03-topic: Formant Modeling (Larynx)      
+week-04-topic: Introduction to <gen~>       
+week-05-topic: The Karplus-Strong Algorithm      
+week-06-topic: Waveguide String Model      
+week-07-topic: Bowed String Model (Julius O. Smith)      
+week-08-topic: A Simple Flute Model   
+week-09-topic: Introduction to Modalys~ in MaxMSP        
+# do some basic string model here?         
+week-10-topic: Plate Excited By A Strike Force       
+week-11-topic: Transducing the Plate Model       
+week-12-topic: 3D Meshes in Modalisp           
+week-13-topic: Introdution to mi-gen~      
+week-14-topic: mi-gen~ (Part 2)       
+week-15-topic: mi-gen~ (Part 3)         
+# week-16-topic: n/a     
+# week-17-topic: n/a  
+
+# language plugin settings   
+
+languages: ["en", "sv", "de", "fr"]  
+default_lang: "en"  
+exclude_from_localization: ["javascript", "images", "css", "public"]  
+parallel_localization: true  
