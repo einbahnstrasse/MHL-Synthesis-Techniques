@@ -79,7 +79,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 2: {{ site.week-02 }}  
-### <span style="color: blue;">{{ site.week-02-topic }}</span>    
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-02-topic }}</span>    
 
 #### Tutorials   
 
@@ -102,7 +102,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 3: {{ site.week-03 }}  
-### <span style="color: blue;">{{ site.week-03-topic }}</span>    
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-03-topic }}</span>    
 
 #### Tutorials   
 
@@ -135,7 +135,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *  
 
 ## Week 4: {{ site.week-04 }}  
-### <span style="color: blue;">{{ site.week-04-topic }}</span>    
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-04-topic }}</span>    
 
 ### Tutorials   
 
@@ -163,7 +163,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *  
 
 ## Week 5: {{ site.week-05 }}  
-### <span style="color: blue;">{{ site.week-05-topic }}</span>    
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-05-topic }}</span>    
 
 #### Tutorials    
 
@@ -188,7 +188,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *   
 
 ## Week 6: {{ site.week-06 }}  
-### <span style="color: blue;">{{ site.week-06-topic }}</span>    
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-06-topic }}</span>    
 
 #### Tutorials  
 
@@ -216,7 +216,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 7: {{ site.week-07 }}  
-### <span style="color: blue;">{{ site.week-07-topic }}</span>    
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-07-topic }}</span>    
 
 #### Tutorials    
 <!-- * [Introduction to <pfft~> Boiler Patches](https://github.com/einbahnstrasse/week.7.boiler.pfft/){:target="_blank"}      -->
@@ -248,7 +248,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 8: {{ site.week-08 }}  
-### <span style="color: blue;">{{ site.week-08-topic }}</span>    
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-08-topic }}</span>    
 
 #### Tutorials  
 
@@ -273,7 +273,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 9: {{ site.week-09 }}  
-### <span style="color: blue;">{{ site.week-09-topic }}</span>    
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-09-topic }}</span>    
 
 #### Tutorials    
 * [MyMagnumOpus Boiler Patch](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"}   
@@ -297,7 +297,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 10: {{ site.week-10 }}  
-### <span style="color: blue;">{{ site.week-10-topic }}</span>    
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-10-topic }}</span>    
 
 #### Tutorials  
 
@@ -318,7 +318,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 11: {{ site.week-11 }}  
-### <span style="color: blue;">{{ site.week-11-topic }}</span>    
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-11-topic }}</span>    
 
 ### Tutorials 
 
@@ -344,7 +344,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 12: {{ site.week-12 }}   
-### <span style="color: blue;">{{ site.week-12-topic }}</span>    
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-12-topic }}</span>    
 
 #### Tutorials  
 
@@ -369,7 +369,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 13: {{ site.week-13 }}  
-### <span style="color: blue;">{{ site.week-13-topic }}</span>    
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-13-topic }}</span>    
 
 #### Tutorials  
 
@@ -396,7 +396,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 14: {{ site.week-14 }}  
-### <span style="color: blue;">{{ site.week-14-topic }}</span>    
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-14-topic }}</span>    
 
 #### Tutorials 
 
@@ -421,7 +421,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *
 
 ## Week 15: {{ site.week-15 }}   
-### <span style="color: blue;">{{ site.week-15-topic }}</span>    
+### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-15-topic }}</span>    
 
 #### Tutorials 
 
