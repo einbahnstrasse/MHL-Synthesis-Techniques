@@ -46,12 +46,12 @@ _This page will be updated frequently with examples, video tutorials, links to n
 #### Start-of-Semester Business  
 
 * Review [Syllabus + course policies.](/MHL-Synthesis-Techniques/index.html){:target="_blank"}  
-* Review [Software Installation.](/MHL-Synthesis-Techniques/resources/){:target="_blank"}  
+* Review [Software Installation.](/MHL-Synthesis-Techniques/resources/){:target="_blank"}   
+* Join our Digitale Kreation Discord Server _(see link on Syllabus page)_  
 <!-- * Review [Detailed Breakdown of Grading.](/MHL-Synthesis-Techniques/grading/){:target="_blank"}   -->
 
 
 #### Tutorials   
-
 * [Introduction to MaxMSP (33 minutes)](https://youtu.be/DpKIQzjOh_U?si=ozCElT5NQmD-m9D0){:target="_blank"}      
 
 {% include video id="DpKIQzjOh_U?si=ozCElT5NQmD-m9D0" provider="youtube" %}    
@@ -59,11 +59,11 @@ _This page will be updated frequently with examples, video tutorials, links to n
 #### Listening   
 
 #### Downloads  
-<!-- * [Interacting With `bach.roll` boiler patches](https://github.com/einbahnstrasse/interacting-with-bach-roll){:target="_blank"}      -->
 
 #### Assignments      
 _Assignments are generally due before the next class._  
-* **Install** + **Authorize** MaxMSP    
+* **Install** + **Authorize** MaxMSP   
+* Join our Digitale Kreation Discord Server _(see link on Syllabus page)_  
 * **Finish these patches** we made in class:   
   - `_scaffold.v01.maxpat`  
   - `lg.sound.in.v01.maxpat`  
@@ -92,7 +92,6 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-02-topic }}</span>    
 
 #### Tutorials   
-
 * [Introduction to GIT (28 minutes)](https://youtu.be/Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f){:target="_blank"}      
 
 {% include video id="Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f" provider="youtube" %}    
@@ -100,7 +99,7 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 #### Listening   
 
 #### Assignments   
-* **Assign** the [Microphone Cable Coiling](https://einbahnstrasse.github.io/MHL-Physical-Modeling/xlr-cable-coiling/){:target="_blank"} Assignment (due in Week 6).  
+* **Assign** the [Microphone Cable Coiling](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/xlr-cable-coiling/){:target="_blank"} Assignment (due in Week 6).  
 * **Finish these patches** we made in class:   
   - `lg.midi.in.v01.maxpat`  
   - `01.basic.waveforms.maxpat`  
@@ -165,9 +164,9 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 ## Week 4: {{ site.week-04 }}  
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-04-topic }}</span>    
 
-### Tutorials   
+#### Tutorials   
 
-### Listening   
+#### Listening   
 
 #### Assignments   
 * **Finish these patches** we made in class:   
@@ -253,7 +252,6 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-07-topic }}</span>    
 
 #### Tutorials    
-<!-- * [Introduction to <pfft~> Boiler Patches](https://github.com/einbahnstrasse/week.7.boiler.pfft/){:target="_blank"}      -->
 
 #### Listening   
 
@@ -319,7 +317,7 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 #### Tutorials    
 * [MyMagnumOpus Boiler Patch](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"}   
 
-### Listening   
+#### Listening   
 
 #### Assignments   
 * Start assembling your project using today's concert patch boiler!  
@@ -345,7 +343,7 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 
 #### Tutorials  
 
-### Listening   
+#### Listening   
 
 #### Assignments   
 * **Finish these patches** we made in class:   
@@ -366,11 +364,12 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 ## Week 11: {{ site.week-11 }}  
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-11-topic }}</span>    
 
-### Tutorials 
+#### Tutorials 
+* [Interacting With `bach.roll` boiler patches](https://github.com/einbahnstrasse/interacting-with-bach-roll){:target="_blank"}     
 
-### Listening   
+#### Listening   
 
-### Assignments   
+#### Assignments   
 <!-- * [Concert Patch Checkpoint](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/final-mixed-piece/#21-checkpoints){:target="_blank"}     -->
 * **Finish these patches** we made in class:   
   - _Patch list coming soon!_   
@@ -423,8 +422,9 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-13-topic }}</span>    
 
 #### Tutorials  
+* [Introduction to <pfft~> Boiler Patches](https://github.com/einbahnstrasse/week.7.boiler.pfft/){:target="_blank"}     
 
-### Listening   
+#### Listening   
 
 #### Assignments   
 * **Finish these patches** we made in class:   
@@ -454,9 +454,9 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 
 #### Tutorials 
 
-### Listening   
+#### Listening   
 
-### Assignments  
+#### Assignments  
 * **Finish these patches** we made in class:   
   - `quad.panner.v01.maxpat`  
   - `_MAIN.PATCH.template.maxpat`  
@@ -484,7 +484,7 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 
 #### Tutorials 
 
-### Listening   
+#### Listening   
 
 #### Assignments  
 
