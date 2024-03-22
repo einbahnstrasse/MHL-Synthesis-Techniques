@@ -63,7 +63,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 #### Assignments _(always due before the next class!)_   
 * Install + Authorize MaxMSP    
 
-#### New Terms and Shortcuts  
+#### Terms, Concepts, Objects, Shortcuts   
 - patch   
 - object box `cmd. + n`  
 - patch cable (or patch cord)   
