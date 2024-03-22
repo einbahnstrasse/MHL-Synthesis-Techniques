@@ -61,8 +61,10 @@ _This page will be updated frequently with examples, video tutorials, links to n
 #### Downloads  
 <!-- * [Interacting With `bach.roll` boiler patches](https://github.com/einbahnstrasse/interacting-with-bach-roll){:target="_blank"}      -->
 
-#### Assignments _(always due before the next class!)_   
+#### Assignments      
+_Assignments are generally due before the next class._  
 * Install + Authorize MaxMSP    
+* Watch [Introduction to MaxMSP (33 minutes)](https://youtu.be/DpKIQzjOh_U?si=ozCElT5NQmD-m9D0){:target="_blank"} video (above), and make the simple patch in the video.    
 
 #### Terms, Concepts, Objects, Shortcuts   
 - patch   
@@ -84,9 +86,14 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 #### Tutorials   
 
+* [Introduction to GIT (28 minutes)](https://youtu.be/Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f){:target="_blank"}      
+
+{% include video id="Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f" provider="youtube" %}    
+
 #### Listening   
 
 #### Assignments   
+* Watch [Introduction to GIT (28 minutes)](https://youtu.be/Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f){:target="_blank"} video (above), and set up your own GitHub repository for class.    
 
 #### Terms, Concepts, Objects, Shortcuts   
 - oscillator   
