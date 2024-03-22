@@ -32,6 +32,8 @@ By the deadline, **email me a short video**, perhaps made with your phone, in wh
 
 Unfortunately, it's too easy to coil cables improperly after we build down from a performance. We all need to be skilled in this area, and we are all expected to wrap cables after our concerts, so this assignment is just a simple chance to practice.   
 
+Some professionals and engineers may have different styles of coiling cables, but this one is among the very best.    
+
 Let me know if you have any questions!  
 
 * * *    

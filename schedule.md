@@ -63,15 +63,18 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 #### Assignments      
 _Assignments are generally due before the next class._  
-* Install + Authorize MaxMSP    
-* Finish these **patches** we made in class:   
+* **Install** + **Authorize** MaxMSP    
+* **Finish these patches** we made in class:   
   - `_scaffold.v01.maxpat`  
   - `lg.sound.in.v01.maxpat`  
   - `lg.sound.out.v01.maxpat`  
-* Watch [Introduction to MaxMSP (33 minutes)](https://youtu.be/DpKIQzjOh_U?si=ozCElT5NQmD-m9D0){:target="_blank"} video (above), and make the simple patch in the video.    
+* **Watch** the [Introduction to MaxMSP (33 minutes)](https://youtu.be/DpKIQzjOh_U?si=ozCElT5NQmD-m9D0){:target="_blank"} video (above), and **make the simple patch** in the video.    
 
 #### Terms, Concepts, Objects, Shortcuts   
+_You don't have to memorize these. Use this list as a ***reference*** to remember when we discussed these concepts. Leave ***comments in your patches*** to remind yourself what these are and how they work!_
 - patch   
+- subpatch `<p>`  
+- abstraction   
 - object box `cmd. + n`  
 - patch cable (or patch cord)   
 - lock/unlock patch `cmd. + e`  
@@ -97,7 +100,14 @@ _Assignments are generally due before the next class._
 #### Listening   
 
 #### Assignments   
-* Watch [Introduction to GIT (28 minutes)](https://youtu.be/Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f){:target="_blank"} video (above), and set up your own GitHub repository for class.    
+* **Assign** the [Microphone Cable Coiling](https://einbahnstrasse.github.io/MHL-Physical-Modeling/xlr-cable-coiling/){:target="_blank"} Assignment (due in Week 6).  
+* **Finish these patches** we made in class:   
+  - `lg.midi.in.v01.maxpat`  
+  - `01.basic.waveforms.maxpat`  
+  - `02.ADSR.maxpat`  
+  - `03.monosynth.fixed.note.length.maxpat`  
+  - `04.monosynth.variable.note.length.maxpat`  
+* **Watch** the [Introduction to GIT (28 minutes)](https://youtu.be/Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f){:target="_blank"} video (above), and **set up your repository** for class.    
 
 #### Terms, Concepts, Objects, Shortcuts   
 - oscillator   
@@ -121,6 +131,12 @@ _Assignments are generally due before the next class._
 #### Listening   
 
 #### Assignments   
+* **Finish these patches** we made in class:   
+  - `01.additive.synth.maxpat`  
+  - `02.additive.synth.drawbars.maxpat`  
+  - `03.function.random.points.maxpat`  
+  - `04.ADSR+freq.envelopes.maxpat`
+  - `05.random.notes.maxpat`  
 
 #### Terms, Concepts, Objects, Shortcuts   
 - frequency  
@@ -154,6 +170,9 @@ _Assignments are generally due before the next class._
 ### Listening   
 
 #### Assignments   
+* **Finish these patches** we made in class:   
+  - `01.RM.AM.FM.on.Waveforms.maxpat`  
+  - `02.RM.AM.on.Sounds.maxpat`  
 
 #### Terms, Concepts, Objects, Shortcuts   
 - modulation   
@@ -182,6 +201,8 @@ _Assignments are generally due before the next class._
 #### Listening   
 
 #### Assignments   
+* **Finish these patches** we made in class:   
+  - _Patch list coming soon!_   
 
 #### Terms, Concepts, Objects, Shortcuts   
 - real-time synthesis   
@@ -207,23 +228,24 @@ _Assignments are generally due before the next class._
 #### Listening   
 
 #### Assignments  
-<!-- * <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>   -->
+* <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>  
+* **Finish these patches** we made in class:   
+  - `05.one.zero.filter.maxpat`  
+  - `05a.one.zero.test.maxpat`  
+  - `06b.comb.object.maxpat`  
+  - `07.moog.style.synth.maxpat`  
 
 #### Terms, Concepts, Objects, Shortcuts   
 - subtractive synthesis   
 - filter sweep   
-- resonant bandpass filter   
 - white noise   
 - pink noise   
-- filter bank   
-- source-filter model   
 - `<noise~>`  
 - `<pink~>`  
 - `<lores~>`  
 - `<reson~>`  
 - `<comb~>`  
 - `<biquad~>`  
-- `<resonators~>`  
 
 * * *
 
@@ -236,6 +258,11 @@ _Assignments are generally due before the next class._
 #### Listening   
 
 #### Assignments   
+* **Finish these patches** we made in class:   
+  - `03.wavetable.synth.maxpat`  
+  - `04.waveshaping.maxpat`  
+  - `05.waveshaping.bands.maxpat`  
+  - `06.wavefolder.maxpat`  
 
 #### Terms, Concepts, Objects, Shortcuts   
 - lookup table    
@@ -266,8 +293,10 @@ _Assignments are generally due before the next class._
 
 #### Listening   
 
-
 #### Assignments      
+* **Finish these patches** we made in class:   
+  - `01.tape.transformation.maxpat`  
+  - `02.sampler.instrument.maxpat`  
 
 <!-- <iframe src="https://player.vimeo.com/video/371859612?h=bb2544d760&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>   -->
 
@@ -293,7 +322,10 @@ _Assignments are generally due before the next class._
 ### Listening   
 
 #### Assignments   
-<!-- * Start assembling and formatting your piece using today's concert patch template!   -->
+* Start assembling your project using today's concert patch boiler!  
+* **Finish these patches** we made in class:   
+  - `_MAIN.PATCH.template.maxpat`  
+  - `lg.ping.v02.maxpat`  
 
 <!-- event mgmt -->
 #### Terms, Concepts, Objects, Shortcuts   
@@ -316,6 +348,8 @@ _Assignments are generally due before the next class._
 ### Listening   
 
 #### Assignments   
+* **Finish these patches** we made in class:   
+  - _Patch list coming soon!_   
 
 <!-- interface design -->
 #### Terms, Concepts, Objects, Shortcuts   
@@ -338,6 +372,8 @@ _Assignments are generally due before the next class._
 
 ### Assignments   
 <!-- * [Concert Patch Checkpoint](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/final-mixed-piece/#21-checkpoints){:target="_blank"}     -->
+* **Finish these patches** we made in class:   
+  - _Patch list coming soon!_   
 
 <!-- cao -->
 #### Terms, Concepts, Objects, Shortcuts   
@@ -363,6 +399,9 @@ _Assignments are generally due before the next class._
 #### Listening   
 
 #### Assignments  
+* **Finish these patches** we made in class:   
+  - `01.granular.sampler.instrument.maxpat`  
+  - `02.munger.maxpat`  
 
 <!-- granular -->
 #### Terms, Concepts, Objects, Shortcuts   
@@ -388,6 +427,9 @@ _Assignments are generally due before the next class._
 ### Listening   
 
 #### Assignments   
+* **Finish these patches** we made in class:   
+  - `01.multiband.filter.maxpat`  
+  - `multiband.pfftCore.maxpat`  
 
 <!-- realtime pfft~ -->
 #### Terms, Concepts, Objects, Shortcuts   
@@ -415,6 +457,11 @@ _Assignments are generally due before the next class._
 ### Listening   
 
 ### Assignments  
+* **Finish these patches** we made in class:   
+  - `quad.panner.v01.maxpat`  
+  - `_MAIN.PATCH.template.maxpat`  
+  - `lg.spat.v01.maxpat`   
+  - `lg.sound.out.v02.maxpat`   
 
 <!-- spatial -->
 #### Terms, Concepts, Objects, Shortcuts   
