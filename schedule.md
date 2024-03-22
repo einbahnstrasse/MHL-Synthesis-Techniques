@@ -432,31 +432,3 @@ _This page will be updated frequently with examples, video tutorials, links to n
 #### New Terms, Concepts, Objects, Shortcuts   
 
 * * *
-<!-- 
-## Week 16: {{ site.week-15 }}   
-### {{ site.week-16-topic }}    
-
-#### Tutorials 
-
-### Listening   
-* John Chowning, **_Stria_** (1977)   
-
-{% include video id="fTU1v0bPRE4" provider="youtube" %}    
-
-#### Assignments  
-
-* * *  
-
-## Week 17: {{ site.week-15 }}   
-### {{ site.week-17-topic }}    
-
-#### Tutorials 
-
-### Listening   
-* John Chowning, **_Stria_** (1977)   
-
-{% include video id="fTU1v0bPRE4" provider="youtube" %}    
-
-#### Assignments  
-
-* * *   -->
