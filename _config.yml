@@ -159,11 +159,11 @@ week-03-topic: Introduction to Additive Synthesis
 week-04-topic: Modulation Synthesis             
 week-05-topic: Real-Time Treatments on a Live Input Signal            
 week-06-topic: Subtractive Synthesis         
-week-07-topic: Wavetables and Waveshaping (Distortion)    
-week-08-topic: Event Management
-week-09-topic: Interface Design — MIDI and MiraWeb                 
-week-10-topic: Introduction to Computer-Assisted Composition (CAO)          
-week-11-topic: Sampling     
+week-07-topic: Wavetables, Waveshaping, Wavefolding (Distortion)    
+week-08-topic: Sampling   
+week-09-topic: Event Management                     
+week-10-topic: Interface Design — MIDI and MiraWeb         
+week-11-topic: Introduction to Computer-Assisted Composition (CAO)     
 week-12-topic: Granular Synthesis          
 week-13-topic: Real-Time Frequency Domain Signal Processing    
 week-14-topic: Multichannel Spatial Audio       
