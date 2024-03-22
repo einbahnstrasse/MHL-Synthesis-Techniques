@@ -368,7 +368,7 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-11-topic }}</span>    
 
 #### Tutorials 
-* [Interacting With `bach.roll` boiler patches](https://github.com/einbahnstrasse/interacting-with-bach-roll){:target="_blank"}     
+* [Interacting With `<bach.roll>` boiler patches](https://github.com/einbahnstrasse/interacting-with-bach-roll){:target="_blank"}     
 
 #### Listening   
 
@@ -425,7 +425,7 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-13-topic }}</span>    
 
 #### Tutorials  
-* [Introduction to <pfft~> Boiler Patches](https://github.com/einbahnstrasse/pfft.boiler){:target="_blank"}     
+* [Introduction to `<pfft~>` Boiler Patches](https://github.com/einbahnstrasse/pfft.boiler){:target="_blank"}     
 
 #### Listening   
 
