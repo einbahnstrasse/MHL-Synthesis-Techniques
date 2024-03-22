@@ -223,6 +223,7 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-06-topic }}</span>    
 
 #### Tutorials  
+* [Subtractive Synthesis Boiler Patches](https://github.com/einbahnstrasse/subtractive.boiler){:target="_blank"}     
 
 #### Listening   
 
@@ -252,6 +253,8 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-07-topic }}</span>    
 
 #### Tutorials    
+* [Wavetable Boiler Patches](https://github.com/einbahnstrasse/wavetable.boiler){:target="_blank"}     
+
 
 #### Listening   
 
@@ -422,7 +425,7 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-13-topic }}</span>    
 
 #### Tutorials  
-* [Introduction to <pfft~> Boiler Patches](https://github.com/einbahnstrasse/week.7.boiler.pfft/){:target="_blank"}     
+* [Introduction to <pfft~> Boiler Patches](https://github.com/einbahnstrasse/pfft.boiler){:target="_blank"}     
 
 #### Listening   
 
