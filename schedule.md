@@ -49,11 +49,12 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * Review [Software Installation.](/MHL-Synthesis-Techniques/resources/){:target="_blank"}  
 <!-- * Review [Detailed Breakdown of Grading.](/MHL-Synthesis-Techniques/grading/){:target="_blank"}   -->
 
-#### Listening   
-<!-- * [Hugh Le Caine, _Dripsody_ (1955)](https://youtu.be/zvHSvSBwFYM?si=5ZvFFPUpYwWrJ08L){:target="_blank"}  
-* [Joshua Banks Mailman‘s analysis of _Dripsody_](/MHL-studio-methods/assets/images/Mailman.Dripsody.Analysis.png){:target="_blank"}   -->
 
-#### Tutorials     
+#### Tutorials   
+
+* [Introduction to MaxMSP (33 minutes)](https://youtu.be/DpKIQzjOh_U?si=ozCElT5NQmD-m9D0){:target="_blank"}      
+
+{% include video id="DpKIQzjOh_U?si=ozCElT5NQmD-m9D0" provider="youtube" %}    
 
 #### Listening   
 
@@ -287,7 +288,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 #### New Terms, Concepts, Objects, Shortcuts   
 - event   
 - main patch ("parent" patch)   
-- subpatcher `p` 
+- subpatcher `<p>` 
 - abstraction    
 - initialization ("init")   
 - rewind to event    
