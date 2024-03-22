@@ -64,6 +64,10 @@ _This page will be updated frequently with examples, video tutorials, links to n
 #### Assignments      
 _Assignments are generally due before the next class._  
 * Install + Authorize MaxMSP    
+* Finish these **patches** we made in class:   
+  - `_scaffold.v01.maxpat`  
+  - `lg.sound.in.v01.maxpat`  
+  - `lg.sound.out.v01.maxpat`  
 * Watch [Introduction to MaxMSP (33 minutes)](https://youtu.be/DpKIQzjOh_U?si=ozCElT5NQmD-m9D0){:target="_blank"} video (above), and make the simple patch in the video.    
 
 #### Terms, Concepts, Objects, Shortcuts   
@@ -118,7 +122,7 @@ _Assignments are generally due before the next class._
 
 #### Assignments   
 
-#### New Terms, Concepts, Objects, Shortcuts   
+#### Terms, Concepts, Objects, Shortcuts   
 - frequency  
 - amplitude   
 - phase   
@@ -151,7 +155,7 @@ _Assignments are generally due before the next class._
 
 #### Assignments   
 
-#### New Terms, Concepts, Objects, Shortcuts   
+#### Terms, Concepts, Objects, Shortcuts   
 - modulation   
 - ring modulation (RM)  
 - sin-to-sin   
@@ -179,7 +183,7 @@ _Assignments are generally due before the next class._
 
 #### Assignments   
 
-#### New Terms, Concepts, Objects, Shortcuts   
+#### Terms, Concepts, Objects, Shortcuts   
 - real-time synthesis   
 - live input signal  
 - delay line    
@@ -205,7 +209,7 @@ _Assignments are generally due before the next class._
 #### Assignments  
 <!-- * <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>   -->
 
-#### New Terms, Concepts, Objects, Shortcuts   
+#### Terms, Concepts, Objects, Shortcuts   
 - subtractive synthesis   
 - filter sweep   
 - resonant bandpass filter   
@@ -233,7 +237,7 @@ _Assignments are generally due before the next class._
 
 #### Assignments   
 
-#### New Terms, Concepts, Objects, Shortcuts   
+#### Terms, Concepts, Objects, Shortcuts   
 - lookup table    
 - waveform cycle   
 - periodicity   
@@ -268,7 +272,7 @@ _Assignments are generally due before the next class._
 <!-- <iframe src="https://player.vimeo.com/video/371859612?h=bb2544d760&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>   -->
 
 <!-- sampling -->
-#### New Terms, Concepts, Objects, Shortcuts   
+#### Terms, Concepts, Objects, Shortcuts   
 - sample value  
 - audio sample   
 - appropriation   
@@ -292,7 +296,7 @@ _Assignments are generally due before the next class._
 <!-- * Start assembling and formatting your piece using today's concert patch template!   -->
 
 <!-- event mgmt -->
-#### New Terms, Concepts, Objects, Shortcuts   
+#### Terms, Concepts, Objects, Shortcuts   
 - event   
 - main patch ("parent" patch)   
 - subpatcher `<p>` 
@@ -314,7 +318,7 @@ _Assignments are generally due before the next class._
 #### Assignments   
 
 <!-- interface design -->
-#### New Terms, Concepts, Objects, Shortcuts   
+#### Terms, Concepts, Objects, Shortcuts   
 - GUI (graphical user interface)   
 - performer interface      
 - UI objects: buttons, toggles, dials, sliders, meters, etc.    
@@ -336,7 +340,7 @@ _Assignments are generally due before the next class._
 <!-- * [Concert Patch Checkpoint](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/final-mixed-piece/#21-checkpoints){:target="_blank"}     -->
 
 <!-- cao -->
-#### New Terms, Concepts, Objects, Shortcuts   
+#### Terms, Concepts, Objects, Shortcuts   
 - computer-assisted composition (cao)   
 - generative algorithm   
 - proportional notation   
@@ -361,7 +365,7 @@ _Assignments are generally due before the next class._
 #### Assignments  
 
 <!-- granular -->
-#### New Terms, Concepts, Objects, Shortcuts   
+#### Terms, Concepts, Objects, Shortcuts   
 - grain  
 - microsound   
 - granular synthesis   
@@ -386,7 +390,7 @@ _Assignments are generally due before the next class._
 #### Assignments   
 
 <!-- realtime pfft~ -->
-#### New Terms, Concepts, Objects, Shortcuts   
+#### Terms, Concepts, Objects, Shortcuts   
 - frequency domain  
 - Fast Fourier Transform (FFT)  
 - spectrogram  
@@ -413,7 +417,7 @@ _Assignments are generally due before the next class._
 ### Assignments  
 
 <!-- spatial -->
-#### New Terms, Concepts, Objects, Shortcuts   
+#### Terms, Concepts, Objects, Shortcuts   
 - spatial audio   
 - surround panner  
 - quadrophonic sound   
@@ -437,6 +441,6 @@ _Assignments are generally due before the next class._
 
 #### Assignments  
 
-#### New Terms, Concepts, Objects, Shortcuts   
+#### Terms, Concepts, Objects, Shortcuts   
 
 * * *
