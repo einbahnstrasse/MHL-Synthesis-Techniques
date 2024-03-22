@@ -291,8 +291,8 @@ _This page will be updated frequently with examples, video tutorials, links to n
 - abstraction    
 - initialization ("init")   
 - rewind to event    
-- `preset`  
-- `counter`   
+- `<preset>`  
+- `<counter>`   
 
 * * *
 
