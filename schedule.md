@@ -326,7 +326,8 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 * Start assembling your project using today's concert patch boiler!  
 * **Finish these patches** we made in class:   
   - `_MAIN.PATCH.template.maxpat`  
-  - `lg.ping.v02.maxpat`  
+  - `lg.ping.v02.maxpat`   
+* prepare for our guest Stylianos Dimou next week _(stand by for materials to examine, which will be posted here later)_   
 
 <!-- event mgmt -->
 #### Terms, Concepts, Objects, Shortcuts   
