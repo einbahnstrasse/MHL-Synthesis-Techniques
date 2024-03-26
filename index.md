@@ -63,11 +63,6 @@ last_modified_at: 2024-03-20
 **MHL Discord Server:** [https://discord.gg/ZQWrjtwq](https://discord.gg/ZQWrjtwq){:target="_blank"}      
 **Course Website:** [https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/){:target="_blank"}  
 
-<!-- _If you're viewing this syllabus on a projected screen, bookmark our site at the following link:_    -->
-
-<!-- ![Our site.](assets/images/qr-advanced-cao.png)    -->
-  
-
 ## 2. Course Description    
 
 **Synthesis Techniques and Creative Coding** is an introductory, first-semester MaxMSP course and creation lab designed for student musicians (without a background in coding) who are interested in the manipulation of sound and music. MaxMSP is a visual programming environment optimized for creative coding and the generation of sound and video signals. With a focus on the musical materials for composition, improvisation, and performance, students will complete their own small projects by the end of the semester with the aid of weekly topics modules and occasional assignments that focuses on understanding a variety of different kinds of synthesis methods used in the twentieth century. Topics may include: basic waveforms and filters; wavetables; amplitude, frequency, and ring modulation; additive and subtractive synthesis; sampling; microsound (granulation); audio spatialization; and the design of practical performance interfaces, monophonic and polyphonic synthesizers. Weekly group coding in MaxMSP will deepen understanding of each topic area, supported by occasional video tutorials and listening. Projects will be evaluated based on creative and personal implementations of synthesis techniques. Although no formal prerequisite exists for this course, prior completion of Electronic Studio Methods and Composition is generally advised. Taught by Dr. Louis Goldford and offered in English.
