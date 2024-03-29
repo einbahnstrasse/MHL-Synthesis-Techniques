@@ -56,6 +56,10 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 {% include video id="DpKIQzjOh_U?si=ozCElT5NQmD-m9D0" provider="youtube" %}    
 
+_Choose auto-generated German translations of subtitles if it would help:_  
+
+<img src="/MHL-Synthesis-Techniques/assets/images/auto-generated-subtitles.png" alt="auto-generated subtitles" width="200">  
+
 #### Listening   
 
 #### Downloads  
@@ -126,6 +130,9 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-03-topic }}</span>    
 
 #### Tutorials   
+* [Sampling Theorem and the Nyquist Frequency (Digital Audio Fundamentals)](https://youtu.be/vrXGaFV1AmE?si=mNTkZROJiiBjsFEQ){:target="_blank"}  
+
+{% include video id="vrXGaFV1AmE" provider="youtube" %}  
 
 #### Listening   
 
@@ -165,6 +172,13 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-04-topic }}</span>    
 
 #### Tutorials   
+* [Aliasing (Digital Audio Fundamentals)](https://youtu.be/91PKZllbgds?si=4sgl-6mLGVlhrnUm){:target="_blank"}     
+
+{% include video id="91PKZllbgds" provider="youtube" %}    
+
+* [Wagon Wheel Effect Example Due to Undersampling](https://youtu.be/ByTsISFXUoY?si=eqtXaZ1cI9kbZd9p){:target="_blank"}     
+
+{% include video id="ByTsISFXUoY?si=eqtXaZ1cI9kbZd9p" provider="youtube" %}    
 
 #### Listening   
 
