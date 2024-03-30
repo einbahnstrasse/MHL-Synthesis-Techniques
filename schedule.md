@@ -61,6 +61,9 @@ _Choose auto-generated German translations of subtitles if it would help:_
 <img src="/MHL-Synthesis-Techniques/assets/images/auto-generated-subtitles.png" alt="auto-generated subtitles" width="200">  
 
 #### Listening   
+* [Max Matthews, _Bicycle Built for Two_ (1961)](https://youtu.be/ZFUVR-clo8g?si=xdj3dzQyMBw-g1Ui){:target="_blank"}     
+
+{% include video id="ZFUVR-clo8g?si=xdj3dzQyMBw-g1Ui" provider="youtube" %}    
 
 #### Downloads  
 
@@ -75,7 +78,9 @@ _Assignments are generally due before the next class._
 * **Watch** the [Introduction to MaxMSP (33 minutes)](https://youtu.be/DpKIQzjOh_U?si=ozCElT5NQmD-m9D0){:target="_blank"} video (above), and **make the simple patch** in the video.    
 
 #### Terms, Concepts, Objects, Shortcuts   
-_You don't have to memorize these. Use this list as a ***reference*** to remember when we discussed these concepts. Leave ***comments in your patches*** to remind yourself what these are and how they work!_
+_You don't have to memorize these. Use this list as a ***reference*** to remember when we discussed these concepts. Leave ***comments in your patches*** to remind yourself what these are and how they work!_   
+- realtime vs. offline electronics   
+- computer music   
 - patch   
 - subpatch `<p>`  
 - abstraction   
@@ -135,6 +140,13 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 {% include video id="vrXGaFV1AmE" provider="youtube" %}  
 
 #### Listening   
+* [Karlheinz Stockhausen, _Studie II_ (1954)](https://youtu.be/_qi4hgT_d0o?si=QK4OQxQV8tt8Gq5s){:target="_blank"}       
+
+{% include video id="_qi4hgT_d0o?si=QK4OQxQV8tt8Gq5s" provider="youtube" %}    
+  
+* [Jean-Claude Risset, _Mutations_ (1977)](https://youtu.be/B54k8UFuihs?si=x9Z87UvwSSihjFGE){:target="_blank"}     
+
+{% include video id="B54k8UFuihs?si=x9Z87UvwSSihjFGE" provider="youtube" %}    
 
 #### Assignments   
 * **Finish these patches** we made in class:   
@@ -181,7 +193,10 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 {% include video id="ByTsISFXUoY?si=eqtXaZ1cI9kbZd9p" provider="youtube" %}    
 
 #### Listening   
-
+* [John Chowning, _Stria_ (1977)](https://youtu.be/988jPjs1gao?si=1RMp19Z9PhJIP6PN){:target="_blank"}       
+   
+{% include video id="988jPjs1gao?si=1RMp19Z9PhJIP6PN" provider="youtube" %}    
+   
 #### Assignments   
 * **Finish these patches** we made in class:   
   - `01.RM.AM.FM.on.Waveforms.maxpat`  
