@@ -50,7 +50,6 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * Join our Digitale Kreation Discord Server _(see link on Syllabus page)_  
 <!-- * Review [Detailed Breakdown of Grading.](/MHL-Synthesis-Techniques/grading/){:target="_blank"}   -->
 
-
 #### Tutorials   
 * [Introduction to MaxMSP (33 minutes)](https://youtu.be/DpKIQzjOh_U?si=ozCElT5NQmD-m9D0){:target="_blank"}      
 
@@ -61,7 +60,7 @@ _Choose auto-generated German translations of subtitles if it would help:_
 <img src="/MHL-Synthesis-Techniques/assets/images/auto-generated-subtitles.png" alt="auto-generated subtitles" width="200">  
 
 #### Listening   
-* [Max Matthews, _Bicycle Built for Two_ (1961)](https://youtu.be/ZFUVR-clo8g?si=xdj3dzQyMBw-g1Ui){:target="_blank"}     
+* [Max Mathews, _Bicycle Built for Two_ (1961)](https://youtu.be/ZFUVR-clo8g?si=xdj3dzQyMBw-g1Ui){:target="_blank"}     
 
 {% include video id="ZFUVR-clo8g?si=xdj3dzQyMBw-g1Ui" provider="youtube" %}    
 
@@ -106,6 +105,10 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 {% include video id="Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f" provider="youtube" %}    
 
 #### Listening   
+* [Bernard Parmegiani, excerpt from _Ondes Croisées_ from _De Natura Sonorum_ (1978)](https://youtu.be/-GMedIlNmmw?si=mbQDQw2tpbr2NZh8){:target="_blank"}       
+   
+{% include video id="-GMedIlNmmw?si=mbQDQw2tpbr2NZh8" provider="youtube" %}    
+_Consider this attempt to **codify** and to **notate** these abstract electronic sounds._   
 
 #### Assignments   
 * **Assign** the [Microphone Cable Coiling](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/xlr-cable-coiling/){:target="_blank"} Assignment (due in Week 6).  
@@ -196,6 +199,10 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 * [John Chowning, _Stria_ (1977)](https://youtu.be/988jPjs1gao?si=1RMp19Z9PhJIP6PN){:target="_blank"}       
    
 {% include video id="988jPjs1gao?si=1RMp19Z9PhJIP6PN" provider="youtube" %}    
+    
+* [Tristan Murail, _Atlantys_ (1984)](https://youtu.be/VOfIFfKF_No?si=AaoufXM_W-t5rzpG){:target="_blank"}       
+   
+{% include video id="VOfIFfKF_No?si=AaoufXM_W-t5rzpG" provider="youtube" %}    
    
 #### Assignments   
 * **Finish these patches** we made in class:   
@@ -237,6 +244,7 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 - live input signal  
 - delay line    
 - flanger   
+- harmonizer   
 - constructive interference   
 - destructive interference   
 - envelope follower   
@@ -255,6 +263,13 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 * [Subtractive Synthesis Boiler Patches](https://github.com/einbahnstrasse/subtractive.boiler){:target="_blank"}     
 
 #### Listening   
+* [Jean-Baptiste Barriere, _Chreode I_ (1983)](https://youtu.be/5AEFhybYrPg?si=Iwu6LrsWm1dxx_Zj){:target="_blank"}       
+   
+{% include video id="5AEFhybYrPg?si=Iwu6LrsWm1dxx_Zj" provider="youtube" %}    
+  
+* [Fausto Romitelli, _EnTrance_ (1995)](https://youtu.be/NBteiaa31iI?si=rUsWraS6wQWfv0ee){:target="_blank"}       
+   
+{% include video id="NBteiaa31iI?si=rUsWraS6wQWfv0ee" provider="youtube" %}    
 
 #### Assignments  
 * <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>  
@@ -282,11 +297,16 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-07-topic }}</span>    
 
 #### Tutorials    
+* [Waveshapers: A Guide to Destructive Sound Processing and Waveform Design](https://www.perfectcircuit.com/signal/learning-synthesis-waveshapers){:target="_blank"}     
+
+#### Downloads    
 * [Wavetable Boiler Patches](https://github.com/einbahnstrasse/wavetable.boiler){:target="_blank"}     
-
-
+   
 #### Listening   
-
+* [Iannis Xenakis, _Gendy3_ (1991)](https://youtu.be/5qS5lqbx9H0?si=NRvTH341rsl8bsOh){:target="_blank"}       
+   
+{% include video id="5qS5lqbx9H0?si=NRvTH341rsl8bsOh" provider="youtube" %}    
+  
 #### Assignments   
 * **Finish these patches** we made in class:   
   - `03.wavetable.synth.maxpat`  
@@ -322,7 +342,18 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 #### Tutorials  
 
 #### Listening   
+* [Pierre Schaeffer, _Etude aux chemins de fer_ ("Railroad Study") (1948)](https://youtu.be/N9pOq8u6-bA?si=FDYDOKGlUPaRfke7){:target="_blank"}       
+   
+{% include video id="N9pOq8u6-bA?si=FDYDOKGlUPaRfke7" provider="youtube" %}    
+   
+* [Karlheinz Stockhausen, _Gesang der Jünglinge_ (1956)](https://youtu.be/nffOJXcJCDg?si=HFqkTcUHdL0vuxxx){:target="_blank"}       
+   
+{% include video id="N9pOq8u6-bA?si=FDYDOKGlUPaRfke7" provider="youtube" %}    
 
+* [Horacio Vaggione, _SCHALL_ (1994)](https://youtu.be/K-FjnKiDWQc?si=oj3whzvwrBqZP0P-){:target="_blank"}       
+   
+{% include video id="K-FjnKiDWQc?si=oj3whzvwrBqZP0P-" provider="youtube" %}    
+   
 #### Assignments      
 * **Finish these patches** we made in class:   
   - `01.tape.transformation.maxpat`  
@@ -358,7 +389,7 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
   - `lg.ping.v02.maxpat`   
 * prepare for our guest Stylianos Dimou next week _(stand by for materials to examine, which will be posted here later)_   
 
-<!-- event mgmt -->
+<!-- event mgmt -->  
 #### Terms, Concepts, Objects, Shortcuts   
 - event   
 - main patch ("parent" patch)   
@@ -401,6 +432,13 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 * [Interacting With `<bach.roll>` boiler patches](https://github.com/einbahnstrasse/interacting-with-bach-roll){:target="_blank"}     
 
 #### Listening   
+* [Brian Ferneyhough, _String Trio_ (1995)](https://youtu.be/zwW6hLjPiWM?si=v5WfEC3stoRJqMdp){:target="_blank"}       
+   
+{% include video id="zwW6hLjPiWM?si=v5WfEC3stoRJqMdp" provider="youtube" %}    
+
+* [Jean-Claude Risset, _Huit esquisses en duo pour un pianiste_ (“Eight Duet Sketches for One Pianist”) (1989)](https://youtu.be/Tz5qqMyAg88?si=cGuLhjL0gpj-VHQf){:target="_blank"}       
+   
+{% include video id="Tz5qqMyAg88?si=cGuLhjL0gpj-VHQf" provider="youtube" %}    
 
 #### Assignments   
 <!-- * [Concert Patch Checkpoint](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/final-mixed-piece/#21-checkpoints){:target="_blank"}     -->
@@ -429,7 +467,14 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 #### Tutorials  
 
 #### Listening   
+* [Iannis Xenakis, _Concret PH_ (1958)](https://youtu.be/S9zMaIhuMgo?si=LfMMqKln_F8cVX2j){:target="_blank"}       
+   
+{% include video id="S9zMaIhuMgo?si=LfMMqKln_F8cVX2j" provider="youtube" %}    
 
+* [Barry Truax, _Riverrun_ (1986)](https://youtu.be/u81IGEFt7dM?si=PVJM0z1q6qchxsAM){:target="_blank"}       
+   
+{% include video id="u81IGEFt7dM?si=PVJM0z1q6qchxsAM" provider="youtube" %}    
+  
 #### Assignments  
 * **Finish these patches** we made in class:   
   - `01.granular.sampler.instrument.maxpat`  
@@ -458,7 +503,7 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 * [Introduction to `<pfft~>` Boiler Patches](https://github.com/einbahnstrasse/pfft.boiler){:target="_blank"}     
 
 #### Listening   
-
+ 
 #### Assignments   
 * **Finish these patches** we made in class:   
   - `01.multiband.filter.maxpat`  
@@ -486,8 +531,9 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-14-topic }}</span>    
 
 #### Tutorials 
-
+  
 #### Listening   
+* Bernhard Leightner, _Kopfräume/Headscapes_ (2003) _(link coming soon!)_     
 
 #### Assignments  
 * **Finish these patches** we made in class:   
