@@ -67,7 +67,7 @@ _Choose auto-generated German translations of subtitles if it would help:_
 #### Downloads  
 
 #### Assignments      
-_Assignments are generally due before the next class._  
+_(Unless otherwise noted, assignments are always due before the next class!)_    
 * **Install** + **Authorize** MaxMSP   
 * Join our Digitale Kreation Discord Server _(see link on Syllabus page)_  
 * **Finish these patches** we made in class:   
@@ -354,7 +354,8 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
    
 {% include video id="K-FjnKiDWQc?si=oj3whzvwrBqZP0P-" provider="youtube" %}    
    
-#### Assignments      
+#### Assignments    
+* Introduce + assign the Final Project, due in Week 15 _(A small project to be shared in class, a working patch, a small design, nothing big. Details coming soon.)_    
 * **Finish these patches** we made in class:   
   - `01.tape.transformation.maxpat`  
   - `02.sampler.instrument.maxpat`  

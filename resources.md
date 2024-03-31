@@ -179,7 +179,7 @@ Git is a very powerful **distributed version control** system for intelligently 
 
 It functions alongside **GitHub.com**, which we'll use as a cloud storage platform to keep our files safe, and to submit projects and assignments.   
 
-<span style="color: red;">_NOTE: We installed and used these tools in the previous seminar **Sound Synthesis Techniques**, and we'll continue to use them this semester._</span>  
+<!-- <span style="color: red;">_NOTE: We installed and used these tools in the previous seminar **Sound Synthesis Techniques**, and we'll continue to use them this semester._</span>   -->
 
 If you have already taken the time to install these tools, simply **skip this section**. But if you are just joining our class and have not yet worked with these tools, follow the video tutorials below.  
 
