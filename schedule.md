@@ -64,8 +64,9 @@ _Choose auto-generated German translations of subtitles if it would help:_
 
 {% include video id="ZFUVR-clo8g?si=xdj3dzQyMBw-g1Ui" provider="youtube" %}    
 
-#### Downloads  
-
+#### Downloads    
+* [Media Folder of Test Sounds](https://github.com/einbahnstrasse/synth-tech-media){:target="_blank"}     
+  
 #### Assignments      
 _(Unless otherwise noted, assignments are always due before the next class!)_    
 * **Install** + **Authorize** MaxMSP   
