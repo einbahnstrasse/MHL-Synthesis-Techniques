@@ -75,6 +75,8 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
   - `_scaffold.v01.maxpat`  
   - `lg.sound.in.v01.maxpat`  
   - `lg.sound.out.v01.maxpat`  
+  - `00.getting.started.maxpat`  
+  - `working.patch.v01.maxpat`  
 * **Watch** the [Introduction to MaxMSP (33 minutes)](https://youtu.be/DpKIQzjOh_U?si=ozCElT5NQmD-m9D0){:target="_blank"} video (above), and **make the simple patch** in the video.    
 
 #### Terms, Concepts, Objects, Shortcuts   
