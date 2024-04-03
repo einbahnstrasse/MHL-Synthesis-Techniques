@@ -198,6 +198,10 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-04-topic }}</span>    
 
 #### Tutorials   
+* [John Chowning's Discovery of FM Synthesis _(starting at 4:09)_](https://youtu.be/sXt_NXjc7oY?si=Jwf3VD3vfh598h0M&t=249){:target="_blank"}       
+   
+{% include video id="sXt_NXjc7oY?si=Jwf3VD3vfh598h0M&t=249" provider="youtube" %}   
+
 * [Aliasing (Digital Audio Fundamentals)](https://youtu.be/91PKZllbgds?si=4sgl-6mLGVlhrnUm){:target="_blank"}     
 
 {% include video id="91PKZllbgds" provider="youtube" %}    
@@ -214,7 +218,11 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
 * [Tristan Murail, _Atlantys_ (1984)](https://youtu.be/VOfIFfKF_No?si=AaoufXM_W-t5rzpG){:target="_blank"}       
    
 {% include video id="VOfIFfKF_No?si=AaoufXM_W-t5rzpG" provider="youtube" %}    
+
+* [Yamaha DX7 - Famous Sounds Demo](https://youtu.be/BCwn26FePAo?si=EpZ-nuB-QooIkU_m){:target="_blank"}       
    
+{% include video id="BCwn26FePAo?si=EpZ-nuB-QooIkU_m" provider="youtube" %}   
+    
 #### Assignments   
 * **Finish these patches** we made in class:   
   - `01.RM.AM.FM.on.Waveforms.maxpat`  
