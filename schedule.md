@@ -198,11 +198,13 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-04-topic }}</span>    
 
 #### Tutorials   
-* [FM Synthesis History _(see chapter markers below)_](https://youtu.be/sXt_NXjc7oY?si=Jwf3VD3vfh598h0M&t=249){:target="_blank"}       
+* [Origin of the DX7 & FM Synthesis _(see chapter markers below)_](https://youtu.be/sXt_NXjc7oY?si=Jwf3VD3vfh598h0M&t=249){:target="_blank"}       
   - _**click** on the links below to watch the following chapters:_   
   - [Chapter 3 - FM Discovery](https://youtu.be/sXt_NXjc7oY?si=4L1CmlXKvZfbDJMl&t=249){:target="_blank"}       
   - [Chapter 4 - FM License - Stanford & Yamaha](https://youtu.be/sXt_NXjc7oY?si=-ODhlMgB2Y_wlPhB&t=367){:target="_blank"}       
-   
+
+_Or, you can simply select each chapter in the timeline below:_   
+
 {% include video id="sXt_NXjc7oY?si=Jwf3VD3vfh598h0M&t=249" provider="youtube" %}   
 
 * [Yamaha DX7 - Famous Sounds Demo](https://youtu.be/BCwn26FePAo?si=EpZ-nuB-QooIkU_m){:target="_blank"}       
