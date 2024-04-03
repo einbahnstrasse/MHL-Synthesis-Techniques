@@ -198,7 +198,7 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-04-topic }}</span>    
 
 #### Tutorials   
-* [Origin of the DX7 & FM Synthesis _(see chapter markers below)_](https://youtu.be/sXt_NXjc7oY?si=Jwf3VD3vfh598h0M&t=249){:target="_blank"}       
+* [John Chowning, and the origin of the DX7 & FM Synthesis _(see chapter markers below)_](https://youtu.be/sXt_NXjc7oY?si=Jwf3VD3vfh598h0M&t=249){:target="_blank"}       
   - _**click** on the links below to watch the following chapters:_   
     - [Chapter 3 - FM Discovery](https://youtu.be/sXt_NXjc7oY?si=4L1CmlXKvZfbDJMl&t=249){:target="_blank"}       
     - [Chapter 4 - FM License - Stanford & Yamaha](https://youtu.be/sXt_NXjc7oY?si=-ODhlMgB2Y_wlPhB&t=367){:target="_blank"}       
