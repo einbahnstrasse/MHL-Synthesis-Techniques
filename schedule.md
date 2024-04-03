@@ -115,6 +115,7 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 _Consider this attempt to **codify** and to **notate** these abstract electronic sounds._   
 
 #### Assignments   
+* **Install the bach package** using the Max Package Manager _(see the Software and Resources page for details about using the package manager)_.    
 * **Assign** the [Microphone Cable Coiling](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/xlr-cable-coiling/){:target="_blank"} Assignment (due in Week 6).  
 * **Finish these patches** we made in class:   
   - `lg.midi.in.v01.maxpat`  
@@ -158,10 +159,11 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
 #### Assignments   
 * **Finish these patches** we made in class:   
   - `01.additive.synth.maxpat`  
-  - `02.additive.synth.drawbars.maxpat`  
-  - `03.function.random.points.maxpat`  
-  - `04.ADSR+freq.envelopes.maxpat`
-  - `05.random.notes.maxpat`  
+  <!-- - `02.additive.synth.drawbars.maxpat`  
+  - `03.function.random.points.maxpat`   -->
+  - `04.ADSR+freq.envelopes.maxpat`   
+  - `05.oscillator.bank.maxpat`   
+  - `random.notes.maxpat`  
 
 #### Terms, Concepts, Objects, Shortcuts   
 - frequency  
@@ -178,12 +180,13 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
 - overtone   
 - timbre   
 - `<cycle~>`  
-- `<kslider~>`  
-- `<line~>`  
+- `<kslider>`  
+- `<line>`  
 - `<function>`  
 - `<spectroscope~>`  
-- `<zmap>`  
+- `<scale>`  
 - `<multislider>`  
+- `<ioscbank~>`   
 
 * * *  
 
