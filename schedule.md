@@ -124,9 +124,6 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
   - `03.monosynth.fixed.note.length.maxpat`  
   - `04.monosynth.variable.note.length.maxpat`  
 * **Watch** the [Introduction to GIT (28 minutes, link is above)](https://youtu.be/Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f){:target="_blank"} video (above), and **set up your repository** for class.    
-* Also, for next week (optional): For our modulation synthesis week, we'll be taking a trip **back to the 80s**. For reasons that will become clear soon, it's pretty much gonna be an 80s party. I can't promise that I _won't_ be wearing some 80s stuff, so feel free to join in if you like that vibe!   
-   
-<img src="/MHL-Synthesis-Techniques/assets/images/80s.stuff.jpg" alt="80s.stuff.jpg">  
    
 #### Terms, Concepts, Objects, Shortcuts   
 - oscillator   
@@ -169,6 +166,9 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
   - `04.ADSR+freq.envelopes.maxpat`   
   - `05.oscillator.bank.maxpat`   
   - `random.notes.maxpat`  
+* Also, for next week (optional): For our modulation synthesis week, we'll be taking a trip **back to the 80s**. For reasons that will become clear soon, it's pretty much gonna be an 80s party. I can't promise that I _won't_ be wearing some 80s stuff, so feel free to join in if you like that vibe!   
+   
+<img src="/MHL-Synthesis-Techniques/assets/images/80s.stuff.jpg" alt="80s.stuff.jpg">  
 
 #### Terms, Concepts, Objects, Shortcuts   
 - frequency  
