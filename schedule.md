@@ -163,8 +163,6 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
 #### Assignments   
 * **Finish these patches** we made in class:   
   - `01.additive.synth.maxpat`  
-  <!-- - `02.additive.synth.drawbars.maxpat`  
-  - `03.function.random.points.maxpat`   -->
   - `04.ADSR+freq.envelopes.maxpat`   
   - `05.oscillator.bank.maxpat`   
   - `random.notes.maxpat`  
