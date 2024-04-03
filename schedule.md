@@ -142,6 +142,10 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
 ## Week 3: {{ site.week-03 }}  
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-03-topic }}</span>    
 
+#### Downloads   
+
+* [**Additive Synthesis** Boiler Patches](https://github.com/einbahnstrasse/additive.synthesis.boiler.v01/){:target="_blank"}  
+   
 #### Tutorials   
 * [Sampling Theorem and the Nyquist Frequency (Digital Audio Fundamentals)](https://youtu.be/vrXGaFV1AmE?si=mNTkZROJiiBjsFEQ){:target="_blank"}  
 
