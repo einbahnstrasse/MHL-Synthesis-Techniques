@@ -95,7 +95,7 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 - control rate (Max)  
 - signal rate (MSP)  
 - resize boxes `cmd. + j`   
-- duplicate an object `option + click + drag`   
+- duplicate an object `command + D` on any object (or group of objects)  
 - open help file: `option + click` on any object   
 
 * * *
