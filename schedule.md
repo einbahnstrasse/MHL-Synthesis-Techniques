@@ -51,7 +51,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 <!-- * Review [Detailed Breakdown of Grading.](/MHL-Synthesis-Techniques/grading/){:target="_blank"}   -->
 
 #### Tutorials   
-* [Introduction to MaxMSP slides _(under construction...)_](https://youtu.be/DpKIQzjOh_U?si=ozCElT5NQmD-m9D0){:target="_blank"}   
+* [Introduction to MaxMSP slides _(under construction...)_](https://einbahnstrasse.github.io/MHL-intro-to-MaxMSP/){:target="_blank"}   
 * [Introduction to MaxMSP (33 minutes)](https://youtu.be/DpKIQzjOh_U?si=ozCElT5NQmD-m9D0){:target="_blank"}        
 
 {% include video id="DpKIQzjOh_U?si=ozCElT5NQmD-m9D0" provider="youtube" %}    
