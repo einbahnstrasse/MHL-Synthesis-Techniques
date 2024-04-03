@@ -357,9 +357,9 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
    
 {% include video id="N9pOq8u6-bA?si=FDYDOKGlUPaRfke7" provider="youtube" %}    
    
-* [Karlheinz Stockhausen, _Gesang der Jünglinge_ (1956)](https://youtu.be/nffOJXcJCDg?si=HFqkTcUHdL0vuxxx){:target="_blank"}       
+* [Karlheinz Stockhausen, _Gesang der Jünglinge_ (1956)](https://youtu.be/-RMGGVlMuwo?si=iuZ8Nheg3npgGB9g){:target="_blank"}       
    
-{% include video id="N9pOq8u6-bA?si=FDYDOKGlUPaRfke7" provider="youtube" %}    
+{% include video id="-RMGGVlMuwo?si=iuZ8Nheg3npgGB9g" provider="youtube" %}    
 
 * [Horacio Vaggione, _SCHALL_ (1994)](https://youtu.be/K-FjnKiDWQc?si=oj3whzvwrBqZP0P-){:target="_blank"}       
    
