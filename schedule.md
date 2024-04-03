@@ -211,14 +211,6 @@ _Or, you can simply select each chapter in the timeline below:_
    
 {% include video id="BCwn26FePAo?si=EpZ-nuB-QooIkU_m" provider="youtube" %}   
 
-* [Aliasing (Digital Audio Fundamentals)](https://youtu.be/91PKZllbgds?si=4sgl-6mLGVlhrnUm){:target="_blank"}     
-
-{% include video id="91PKZllbgds" provider="youtube" %}    
-
-* [Wagon Wheel Effect Example Due to Undersampling](https://youtu.be/ByTsISFXUoY?si=eqtXaZ1cI9kbZd9p){:target="_blank"}     
-
-{% include video id="ByTsISFXUoY?si=eqtXaZ1cI9kbZd9p" provider="youtube" %}    
-
 #### Listening   
 * [John Chowning, _Stria_ (1977)](https://youtu.be/988jPjs1gao?si=1RMp19Z9PhJIP6PN){:target="_blank"}       
    
@@ -256,7 +248,14 @@ _Or, you can simply select each chapter in the timeline below:_
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-05-topic }}</span>    
 
 #### Tutorials    
+* [Aliasing (Digital Audio Fundamentals)](https://youtu.be/91PKZllbgds?si=4sgl-6mLGVlhrnUm){:target="_blank"}     
 
+{% include video id="91PKZllbgds" provider="youtube" %}    
+
+* [Wagon Wheel Effect Example Due to Undersampling](https://youtu.be/ByTsISFXUoY?si=eqtXaZ1cI9kbZd9p){:target="_blank"}     
+
+{% include video id="ByTsISFXUoY?si=eqtXaZ1cI9kbZd9p" provider="youtube" %}    
+   
 #### Listening   
 
 #### Assignments   
