@@ -52,7 +52,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 #### Tutorials   
 * [Introduction to MaxMSP Slides 1—18: What is MaxMSP?](https://einbahnstrasse.github.io/MHL-intro-to-MaxMSP/){:target="_blank"}   
-* [Introduction to MaxMSP (33 minutes)](https://youtu.be/DpKIQzjOh_U?si=ozCElT5NQmD-m9D0){:target="_blank"}        
+* [Introduction to MaxMSP (video, 33 minutes)](https://youtu.be/DpKIQzjOh_U?si=ozCElT5NQmD-m9D0){:target="_blank"}        
 
 {% include video id="DpKIQzjOh_U?si=ozCElT5NQmD-m9D0" provider="youtube" %}    
 
@@ -78,7 +78,7 @@ _(Unless otherwise noted, assignments are always due before the next class!)_
   - `lg.sound.out.v01.maxpat`  
   - `00.getting.started.maxpat`  
   - `working.patch.v01.maxpat`  
-* **Watch** the [Introduction to MaxMSP (33 minutes)](https://youtu.be/DpKIQzjOh_U?si=ozCElT5NQmD-m9D0){:target="_blank"} video (above), and **make the simple patch** in the video.    
+* **Watch** the [Introduction to MaxMSP (video, 33 minutes)](https://youtu.be/DpKIQzjOh_U?si=ozCElT5NQmD-m9D0){:target="_blank"} video (above), and **make the simple patch** in the video.    
 
 #### Terms, Concepts, Objects, Shortcuts   
 _You don't have to memorize these. Use this list as a ***reference*** to remember when we discussed these concepts. Leave ***comments in your patches*** to remind yourself what these are and how they work!_   
@@ -106,7 +106,7 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 #### Tutorials   
 * [Introduction to MaxMSP Slides 19—35: History through New Terms](https://einbahnstrasse.github.io/MHL-intro-to-MaxMSP/#/19){:target="_blank"}   
    
-* [Introduction to GIT (28 minutes)](https://youtu.be/Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f){:target="_blank"}      
+* [Introduction to GIT (video, 28 minutes)](https://youtu.be/Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f){:target="_blank"}      
 
 {% include video id="Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f" provider="youtube" %}    
 
@@ -118,7 +118,6 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
 
 #### Assignments   
 * **Install the bach package** using the Max Package Manager _(see the Software and Resources page for details about using the package manager)_.    
-* **Assign** the [Microphone Cable Coiling](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/xlr-cable-coiling/){:target="_blank"} Assignment (due in Week 6).  
 * **Finish these patches** we made in class:   
   - `lg.midi.in.v01.maxpat`  
   - `01.basic.waveforms.maxpat`  
@@ -164,6 +163,7 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
 {% include video id="B54k8UFuihs?si=x9Z87UvwSSihjFGE" provider="youtube" %}    
 
 #### Assignments   
+* **Assign** the [Microphone Cable Coiling](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/xlr-cable-coiling/){:target="_blank"} Assignment (due in Week 6).  
 * **Finish these patches** we made in class:   
   - `01.additive.synth.maxpat`  
   - `04.ADSR+freq.envelopes.maxpat`   
