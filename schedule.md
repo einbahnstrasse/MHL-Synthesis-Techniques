@@ -51,7 +51,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 <!-- * Review [Detailed Breakdown of Grading.](/MHL-Synthesis-Techniques/grading/){:target="_blank"}   -->
 
 #### Tutorials   
-* [Introduction to MaxMSP slides _(under construction...)_](https://einbahnstrasse.github.io/MHL-intro-to-MaxMSP/){:target="_blank"}   
+* [Introduction to MaxMSP Slides 1—18: What is MaxMSP?](https://einbahnstrasse.github.io/MHL-intro-to-MaxMSP/){:target="_blank"}   
 * [Introduction to MaxMSP (33 minutes)](https://youtu.be/DpKIQzjOh_U?si=ozCElT5NQmD-m9D0){:target="_blank"}        
 
 {% include video id="DpKIQzjOh_U?si=ozCElT5NQmD-m9D0" provider="youtube" %}    
@@ -104,6 +104,8 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-02-topic }}</span>    
 
 #### Tutorials   
+* [Introduction to MaxMSP Slides 19—35: History through New Terms](https://einbahnstrasse.github.io/MHL-intro-to-MaxMSP/#/19){:target="_blank"}   
+   
 * [Introduction to GIT (28 minutes)](https://youtu.be/Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f){:target="_blank"}      
 
 {% include video id="Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f" provider="youtube" %}    
@@ -147,6 +149,7 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
 * [**Additive Synthesis** Boiler Patches](https://github.com/einbahnstrasse/additive.synthesis.boiler.v01/){:target="_blank"}  
    
 #### Tutorials   
+* [Introduction to MaxMSP Slides 36-47: Listening Repertoire through Pedagogical Patches](https://einbahnstrasse.github.io/MHL-intro-to-MaxMSP/#/36){:target="_blank"}   
 * [Sampling Theorem and the Nyquist Frequency (Digital Audio Fundamentals)](https://youtu.be/vrXGaFV1AmE?si=mNTkZROJiiBjsFEQ){:target="_blank"}  
 
 {% include video id="vrXGaFV1AmE" provider="youtube" %}  
