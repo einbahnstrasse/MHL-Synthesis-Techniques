@@ -105,7 +105,6 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 
 #### Tutorials   
 * [Introduction to MaxMSP Slides 19—35: History through New Terms](https://einbahnstrasse.github.io/MHL-intro-to-MaxMSP/#/19){:target="_blank"}   
-   
 * [Introduction to GIT (video, 28 minutes)](https://youtu.be/Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f){:target="_blank"}      
 
 {% include video id="Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f" provider="youtube" %}    
