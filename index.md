@@ -90,12 +90,11 @@ _See the [RESOURCES TAB](/MHL-Synthesis-Techniques/resources){:target="_blank"} 
 2. headphones  
 3. MaxMSP  
 4. the bach library for computer-assisted composition  
-5. the Modalys library for physical modeling synthesis  
-6. Terminal (pre-packaged on macOS/Linux) or Terminal Emulator (download for Windows users)  
-7. Git version control system   
-8. a public account on _GitHub.com_  
-9. Google Chrome or any web browser that will allow you to access our Course Website & materials   
-10. various other plugins and apps listed throughout the semester  
+5. Terminal (pre-packaged on macOS/Linux) or Terminal Emulator (download for Windows users)  
+6. Git version control system   
+7. a public account on _GitHub.com_  
+8. Google Chrome or any web browser that will allow you to access our Course Website & materials   
+9. various other plugins and apps listed throughout the semester  
 
 ## 3. Expectations   
 
