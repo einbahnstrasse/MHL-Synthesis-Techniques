@@ -127,20 +127,20 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
    
 #### Terms, Concepts, Objects, Shortcuts   
 - oscillator   
-- sine wave `<cycle~>` 
-- sawtooth wave `<phasor~>` 
-- triangle wave `<tri~>` 
-- square wave `<rect~>`   
+- sine wave oscillator `<cycle~>` 
+- sawtooth wave oscillator `<phasor~>` 
+- triangle wave oscillator `<tri~>` 
+- square wave oscillator `<rect~>`   
 - ADSR (attack, decay, sustain, release)  
 - envelope   
 - duty cycle   
 - monosynth   
 - **DATA CLASSES IN MAX:**   
-  - **integer** (int): objects include `i` (a number box for integer), and `int`   
-  - **floating-point** decimal (float): objects include `f` (a number box for floats), and `float`   
+  - **integer** (int): objects include `<i>` (a number box for integer), and `<int>`   
+  - **floating-point** decimal (float): objects include `<f>` (a number box for floats), and `<float>`   
   - **symbol**: sequences of letters and text that make up words _(not numbers)_   
-  - **bang** _(trigger message that causes other objects to immediately send output data)_: objects include `button` and `bangbang`   
-  - **list**: objects include `m` for a message box and `coll` for a collection of lists. Lists contain other elements, each separated by spaces.   
+  - **bang** _(trigger message that causes other objects to immediately send output data)_: objects include `<button>` and `<bangbang>`   
+  - **list**: objects include `<m>` for a message box and `<coll>` for a collection of lists. Lists contain other elements, each separated by spaces.   
 - **EXAMPLES**:   
   - `65` is an **integer**  
   - `65.009` is a **floating-point** number   
