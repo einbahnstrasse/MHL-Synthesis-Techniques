@@ -142,7 +142,7 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
   - **bang** _(trigger message that causes other objects to immediately send output data)_: objects include `button` and `bangbang`   
   - **list**: objects include `m` for a message box and `coll` for a collection of lists. Lists contain other elements, each separated by spaces.   
 - **EXAMPLES**:   
-  - `65` is an integer  
+  - `65` is an **integer**  
   - `65.009` is a **floating-point** number   
   - `bang` is a **bang**  
   - `john` is a **symbol** (we'll have more examples of symbols soon)  
