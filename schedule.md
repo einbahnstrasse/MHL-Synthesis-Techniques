@@ -109,6 +109,8 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 
 {% include video id="Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f" provider="youtube" %}    
 
+* [MaxMSP Beginner's Cheatsheet _(includes Data Classes)_](https://cycling74-web-uploads.s3.amazonaws.com/5462c2a9bdbb99652da7a00a/2017-05-11T08:53:04Z/cheatsheet.pdf){:target="_blank"}     
+
 #### Listening   
 * [Bernard Parmegiani, excerpt from _Ondes Croisées_ from _De Natura Sonorum_ (1978)](https://youtu.be/-GMedIlNmmw?si=mbQDQw2tpbr2NZh8){:target="_blank"}       
    
@@ -135,7 +137,7 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
 - envelope   
 - duty cycle   
 - monosynth   
-- **DATA CLASSES IN MAX:**   
+<!-- - **DATA CLASSES IN MAX:**   
   - **integer** (int): objects include `<i>` (a number box for integer), and `<int>`   
   - **floating-point** decimal (float): objects include `<f>` (a number box for floats), and `<float>`   
   - **symbol**: sequences of letters and text that make up words _(not numbers)_   
@@ -146,7 +148,7 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
   - `65.009` is a **floating-point** number   
   - `bang` is a **bang**  
   - `john` is a **symbol** (we'll have more examples of symbols soon)  
-  - `4 53 67 bang 58.9 72.3 john` is a **list**    
+  - `4 53 67 bang 58.9 72.3 john` is a **list**     -->
 
 * * *
 
