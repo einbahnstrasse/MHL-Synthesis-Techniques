@@ -120,7 +120,7 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
 
 `<>` denotes a MaxMSP **object**   
 
-When you see **triangular brackets** on this website or in the comments of our pedagogical patches, these help you learn **what to type in an _object box_** in order to make the objects that turn into **GUIs (graphical user intefaces)**.   
+When you see **triangular brackets** on this website or in the comments of our pedagogical patches, these help you identify **what to type in an _object box_** to make the objects that turn into **GUIs (graphical user intefaces)**.   
 
 _Don't type the brackets, only what is inside them._ For example:   
 
