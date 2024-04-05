@@ -120,9 +120,11 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
 
 `<>` denotes a MaxMSP **object**   
 
-When you see **triangular brackets** on this website or in the comments of our pedagogical patches, these help you learn **what to type in an _object box_** in order to make the objects that turn into **GUIs (graphical user intefaces)**. _Don't type the brackets, only what is inside them._ For example:   
+When you see **triangular brackets** on this website or in the comments of our pedagogical patches, these help you learn **what to type in an _object box_** in order to make the objects that turn into **GUIs (graphical user intefaces)**.   
 
-<img src="/MHL-Synthesis-Techniques/assets/images/max.brackets.png" width="75%" alt="triangle brackets example">   
+_Don't type the brackets, only what is inside them._ For example:   
+
+<img src="/MHL-Synthesis-Techniques/assets/images/max.brackets.png" width="85%" alt="triangle brackets example">   
 
 #### Assignments   
 * **Install the bach package** using the Max Package Manager _(see the Software and Resources page for details about using the package manager)_.    
