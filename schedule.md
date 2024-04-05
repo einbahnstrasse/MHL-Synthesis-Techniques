@@ -90,8 +90,8 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 - object box `cmd. + n`  
 - patch cable (or patch cord)   
 - lock/unlock patch `cmd. + e`  
-- message box `m`  
-- comment box `c`  
+- message box `<m>`   
+- comment box `<c>`  
 - control rate (Max)  
 - signal rate (MSP)  
 - resize boxes `cmd. + j`   
@@ -115,6 +115,14 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
    
 {% include video id="-GMedIlNmmw?si=mbQDQw2tpbr2NZh8" provider="youtube" %}    
 _Consider this attempt to **codify** and to **notate** these abstract electronic sounds._   
+
+#### When You See Triangular Brackets   
+
+`<>` denotes a MaxMSP **object**   
+
+When you see **triangular brackets** on this website or in the comments of our pedagogical patches, these help you learn **what to type in an _object box_** in order to make the objects that turn into GUIs (graphical user intefaces). _Don't type the brackets, only what is inside them._ For example:   
+
+<img src="/MHL-Synthesis-Techniques/assets/images/max.brackets.png" width="75%" alt="triangle brackets example">   
 
 #### Assignments   
 * **Install the bach package** using the Max Package Manager _(see the Software and Resources page for details about using the package manager)_.    
