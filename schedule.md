@@ -105,11 +105,10 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 
 #### Tutorials   
 * [Introduction to MaxMSP Slides 19—35: History through New Terms](https://einbahnstrasse.github.io/MHL-intro-to-MaxMSP/#/19){:target="_blank"}   
+* [MaxMSP Beginner's Cheatsheet _(includes Data Classes)_](https://cycling74-web-uploads.s3.amazonaws.com/5462c2a9bdbb99652da7a00a/2017-05-11T08:53:04Z/cheatsheet.pdf){:target="_blank"}     
 * [Introduction to GIT (video, 28 minutes)](https://youtu.be/Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f){:target="_blank"}      
 
 {% include video id="Lw2OgM6tQd8?si=jaZH3IwjPTfGPy4f" provider="youtube" %}    
-
-* [MaxMSP Beginner's Cheatsheet _(includes Data Classes)_](https://cycling74-web-uploads.s3.amazonaws.com/5462c2a9bdbb99652da7a00a/2017-05-11T08:53:04Z/cheatsheet.pdf){:target="_blank"}     
 
 #### Listening   
 * [Bernard Parmegiani, excerpt from _Ondes Croisées_ from _De Natura Sonorum_ (1978)](https://youtu.be/-GMedIlNmmw?si=mbQDQw2tpbr2NZh8){:target="_blank"}       
