@@ -131,6 +131,8 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
 - sawtooth wave `<phasor~>` 
 - triangle wave `<tri~>` 
 - square wave `<rect~>`   
+- ADSR (attack, decay, sustain, release)  
+- envelope   
 - duty cycle   
 - filter   
 - lowpass (LP) filter `<onepole~>`  
@@ -178,8 +180,6 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
 - phase   
 - additive synthesis   
 - oscillator bank   
-- ADSR (attack, decay, sustain, release)  
-- envelope   
 - fusion   
 - fundamental   
 - partial   
