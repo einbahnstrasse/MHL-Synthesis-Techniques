@@ -136,18 +136,6 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
 - envelope   
 - duty cycle   
 - monosynth   
-<!-- - **DATA CLASSES IN MAX:**   
-  - **integer** (int): objects include `<i>` (a number box for integer), and `<int>`   
-  - **floating-point** decimal (float): objects include `<f>` (a number box for floats), and `<float>`   
-  - **symbol**: sequences of letters and text that make up words _(not numbers)_   
-  - **bang** _(trigger message that causes other objects to immediately send output data)_: objects include `<button>` and `<bangbang>`   
-  - **list**: objects include `<m>` for a message box and `<coll>` for a collection of lists. Lists contain other elements, each separated by spaces.   
-- **EXAMPLES**:   
-  - `65` is an **integer**  
-  - `65.009` is a **floating-point** number   
-  - `bang` is a **bang**  
-  - `john` is a **symbol** (we'll have more examples of symbols soon)  
-  - `4 53 67 bang 58.9 72.3 john` is a **list**     -->
 
 * * *
 
