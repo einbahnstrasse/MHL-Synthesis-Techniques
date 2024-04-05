@@ -134,10 +134,7 @@ _Consider this attempt to **codify** and to **notate** these abstract electronic
 - ADSR (attack, decay, sustain, release)  
 - envelope   
 - duty cycle   
-- filter   
-- lowpass (LP) filter `<onepole~>`  
-- highpass (HP) filter   
-- bandpass filter `<svf~>`    
+- monosynth   
 
 * * *
 
