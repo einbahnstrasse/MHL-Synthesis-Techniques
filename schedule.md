@@ -146,6 +146,7 @@ _Don't type the brackets, only what is inside them._ For example:
 - envelope   
 - duty cycle   
 - monosynth   
+- **accessing help files**: If you have any questions about how an object works or what it does, remember that you can `option + click` on any MaxMSP object to bring up its help file.   
 
 * * *
 
