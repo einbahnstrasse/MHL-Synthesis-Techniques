@@ -112,7 +112,7 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
   
 #### Downloads   
   
-* [**Week 2** Boiler Patches](https://github.com/einbahnstrasse/bach.roll.boiler.v01){:target="_blank"}  
+* [**Week 2** Boiler Patches](https://github.com/einbahnstrasse/MHL-synth-tech-week-2-boilers){:target="_blank"}  
    
 #### Listening   
 * [Bernard Parmegiani, excerpt from _Ondes Croisées_ from _De Natura Sonorum_ (1978)](https://youtu.be/-GMedIlNmmw?si=mbQDQw2tpbr2NZh8){:target="_blank"}       
