@@ -168,9 +168,10 @@ _Don't type the brackets, only what is inside them._ For example:
 
 {% include video id="vrXGaFV1AmE" provider="youtube" %}  
 
-* [Example of Timbral Fusion by the Addition of Sine Waves](https://youtu.be/5T4kH1qk3VE?si=p66rjMtRLkGB-9-x){:target="_blank"}  
+* [Example of **Timbral Fusion** by the Addition of Sine Waves](https://youtu.be/5T4kH1qk3VE?si=p66rjMtRLkGB-9-x){:target="_blank"}  
 
 {% include video id="5T4kH1qk3VE?si=p66rjMtRLkGB-9-x" provider="youtube" %}  
+Source: Fitz, Kelly. “Sound Modeling and Morphing.”    
    
 #### Listening   
 * [Karlheinz Stockhausen, _Studie II_ (1954)](https://youtu.be/_qi4hgT_d0o?si=QK4OQxQV8tt8Gq5s){:target="_blank"}       
