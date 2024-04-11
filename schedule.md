@@ -579,11 +579,14 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
 ## Week 14: {{ site.week-14 }}  
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-14-topic }}</span>    
 
-#### Tutorials 
-  
+#### Tutorials   
+* [Charles Stankievech, _Headphones: Sound Without Space_](https://www.stankievech.net/projects/aaradio/headphones.html){:target="_blank"}     
+    
 #### Listening   
-* Bernhard Leightner, _Kopfräume/Headscapes_ (2003) _(link coming soon!)_     
-
+* Bernhard Leightner, excerpts from _Kopfräume—Headscapes_ (2003). _Listen on **headphones only**, not speakers:_   
+  - [*HT_A*](https://www.stankievech.net/projects/aaradio/media/04%20HT_A.mp3){:target="_blank"}           
+  - [*WLB*](https://www.stankievech.net/projects/aaradio/media/05%20WLB.mp3){:target="_blank"}                
+      
 #### Assignments  
 * **Finish these patches** we made in class:   
   - `quad.panner.v01.maxpat`  
