@@ -356,6 +356,7 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
 {% include video id="5qS5lqbx9H0?si=NRvTH341rsl8bsOh" provider="youtube" %}    
   
 #### Assignments   
+* Watch the first 23 minutes of [_RiP: A Remix Manifesto_](https://youtu.be/quO_Dzm4rnk?si=f6zYDUvr2Rwum5bZ){:target="_blank"} (Video player posted under Week 8 below). Watch more if you're interested.   
 * **Finish these patches** we made in class:   
   - `03.wavetable.synth.maxpat`  
   - `04.waveshaping.maxpat`  
@@ -388,6 +389,10 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-08-topic }}</span>    
 
 #### Tutorials  
+* [_RiP: A Remix Manifesto_ (documentary, directed by Brett Gaylor, 2008, 86 minutes)](https://youtu.be/quO_Dzm4rnk?si=f6zYDUvr2Rwum5bZ){:target="_blank"}       
+_Watch the first 23 minutes, or more if you're interested_.  
+   
+{% include video id="quO_Dzm4rnk?si=f6zYDUvr2Rwum5bZ" provider="youtube" %}    
 
 #### Listening   
 * [Pierre Schaeffer, _Etude aux chemins de fer_ ("Railroad Study") (1948)](https://youtu.be/N9pOq8u6-bA?si=FDYDOKGlUPaRfke7){:target="_blank"}       
