@@ -389,8 +389,9 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-08-topic }}</span>    
 
 #### Tutorials  
-* [_RiP: A Remix Manifesto_ (documentary, directed by Brett Gaylor, 2008, 86 minutes)](https://youtu.be/quO_Dzm4rnk?si=f6zYDUvr2Rwum5bZ){:target="_blank"}       
-_Watch the first 23 minutes, or more if you're interested_.  
+* [_RiP: A Remix Manifesto_ (2008, 86 minutes)](https://youtu.be/quO_Dzm4rnk?si=f6zYDUvr2Rwum5bZ){:target="_blank"}       
+_This is a documentary film directed by Brett Gaylor._   
+_**Watch the first 23 minutes**, or more if you're interested_.   
    
 {% include video id="quO_Dzm4rnk?si=f6zYDUvr2Rwum5bZ" provider="youtube" %}    
 
