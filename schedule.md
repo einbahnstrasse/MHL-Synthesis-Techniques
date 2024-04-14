@@ -241,9 +241,9 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
    
 {% include video id="988jPjs1gao?si=1RMp19Z9PhJIP6PN" provider="youtube" %}    
     
-* [Tristan Murail, _Atlantys_ (1984)](https://youtu.be/VOfIFfKF_No?si=AaoufXM_W-t5rzpG){:target="_blank"}       
+* [Tristan Murail, _Atlantys_ (1984)](https://youtu.be/rnwoUFhxQLo?si=1mDzM7-voHq_brv_){:target="_blank"}       
    
-{% include video id="VOfIFfKF_No?si=AaoufXM_W-t5rzpG" provider="youtube" %}    
+{% include video id="rnwoUFhxQLo?si=1mDzM7-voHq_brv_" provider="youtube" %}    
       
 #### Assignments   
 * **Finish these patches** we made in class:   
