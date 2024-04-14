@@ -282,10 +282,16 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
 {% include video id="ByTsISFXUoY?si=eqtXaZ1cI9kbZd9p" provider="youtube" %}    
    
 #### Listening   
-
+* [Sam Pluta and Peter Evans, _Third Piece_, Live at Roulette (2014)](https://vimeo.com/114201582){:target="_blank"}      
+  
+{% include video id="114201582" provider="vimeo" %}      
+        
 #### Assignments   
 * **Finish these patches** we made in class:   
-  - _Patch list coming soon!_   
+  - `live.processing.v01.delay.line.maxpat`      
+  - `live.processing.v02.flanging.maxpat`    
+  - `live.processing.v03.harmonizer.maxpat`    
+  - `live.processing.v04.envelope.follower.maxpat`   
 
 #### Terms, Concepts, Objects, Shortcuts   
 - real-time synthesis   
