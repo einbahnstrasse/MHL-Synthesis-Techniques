@@ -300,10 +300,9 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
 - flanger   
 - harmonizer   
 - envelope follower   
-- audio buffer   
 - `<tapin~>`  
 - `<tapout~>`  
-- `<comb~>`  
+- `<pitchshift~>`  
 - `<peakamp~>`  
 
 * * *   
