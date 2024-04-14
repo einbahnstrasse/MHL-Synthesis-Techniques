@@ -299,8 +299,6 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
 - delay line    
 - flanger   
 - harmonizer   
-- constructive interference   
-- destructive interference   
 - envelope follower   
 - audio buffer   
 - `<tapin~>`  
@@ -335,6 +333,8 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
 
 #### Terms, Concepts, Objects, Shortcuts   
 - subtractive synthesis   
+- constructive interference   
+- destructive interference   
 - filter sweep   
 - white noise   
 - pink noise   
