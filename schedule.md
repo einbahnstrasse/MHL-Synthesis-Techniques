@@ -185,11 +185,9 @@ Source: Fitz, Kelly. “Sound Modeling and Morphing.”
 #### Assignments   
 * **Assign** the [Microphone Cable Coiling](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/xlr-cable-coiling/){:target="_blank"} Assignment (due in Week 6).  
 * **Finish these patches** we made in class:   
-  - `03.monosynth.fixed.note.length.maxpat` (week 2)    
-  - `04.monosynth.variable.note.length.maxpat` (week 2)    
-  - `01.additive.synth.maxpat`  
-  - `04.ADSR+freq.envelopes.maxpat`   
-  - `05.oscillator.bank.maxpat`   
+  - `additive.07.synth.maxpat`  
+  - `additive.08.sine.bank.maxpat`   
+  - `additive.09.power.law.maxpat`  
   - `random.notes.maxpat`  
   
 * Also, for next week (optional): For our modulation synthesis week, we'll be taking a trip **back to the 80s**. For reasons that will become clear soon, it's pretty much gonna be an 80s party. I can't promise that I _won't_ be wearing some 80s stuff, so feel free to join in if you like that vibe!   
