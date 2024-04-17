@@ -87,15 +87,15 @@ _You don't have to memorize these. Use this list as a ***reference*** to remembe
 - patch   
 - subpatch `<p>`  
 - abstraction   
-- object box `cmd. + n`  
+- object box `command + n`  
 - patch cable (or patch cord)   
-- lock/unlock patch `cmd. + e`  
+- lock/unlock patch `command + e`  
 - message box `<m>`   
 - comment box `<c>`  
 - control rate (Max)  
 - signal rate (MSP)  
-- resize boxes `cmd. + j`   
-- duplicate an object `cmd. + D` on any object (or group of objects)  
+- resize boxes `command + j`   
+- duplicate an object `command + D` on any object (or group of objects)  
 - open help file: `option + click` on any object   
 
 * * *
@@ -285,6 +285,7 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
 {% include video id="114201582" provider="vimeo" %}      
         
 #### Assignments   
+* Reminder: Next week's class is on Zoom! _(see link below)_    
 * **Finish these patches** we made in class:   
   - `live.processing.v01.delay.line.maxpat`      
   - `live.processing.v02.flanging.maxpat`    
@@ -307,7 +308,10 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
 
 ## Week 6: {{ site.week-06 }}  
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-06-topic }}</span>    
-
+  
+#### Zoom Link   
+* [https://columbiauniversity.zoom.us/j/99641354486?pwd=Mk1BNW9PdkI4anRXVE5wR1dkR3dqZz09](https://columbiauniversity.zoom.us/j/99641354486?pwd=Mk1BNW9PdkI4anRXVE5wR1dkR3dqZz09){:target="_blank"}     
+     
 #### Tutorials  
 * [Subtractive Synthesis Boiler Patches](https://github.com/einbahnstrasse/subtractive.boiler){:target="_blank"}     
 
