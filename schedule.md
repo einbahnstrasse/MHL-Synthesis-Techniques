@@ -478,7 +478,8 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 <!-- interface design -->
 #### Terms, Concepts, Objects, Shortcuts   
 - GUI (graphical user interface)   
-- performer interface      
+- performer interface    
+- presentation mode     
 - UI objects: buttons, toggles, dials, sliders, meters, etc.    
 - `<mira.frame>`  
 - `<mira.multitouch>`  
