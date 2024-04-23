@@ -244,6 +244,7 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
 {% include video id="rnwoUFhxQLo?si=1mDzM7-voHq_brv_" provider="youtube" %}    
       
 #### Assignments   
+* Respond to the [Week 4 Discord Reaction Post](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/week-04-discord-reaction/){:target="_blank"}   assignment before class next week!  
 * **Finish these patches** we made in class:   
   - `01.RM.AM.FM.on.Waveforms.maxpat`  
   - `02.RM.AM.on.Sounds.maxpat`  
