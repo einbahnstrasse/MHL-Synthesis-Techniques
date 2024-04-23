@@ -7,7 +7,7 @@ layout: single
 title: "Week 4 Discord Reation"   
 lang: en   
 # ref: week4-reaction    
-permalink: /week-4-discord-reaction/   
+# permalink: /week-4-discord-reaction/   
 # toc: true  
 # toc_label: "Grading Contents" # default: Content
 toc_icon: "graduation-cap"  # corr esponding Font Awesome icon name without the "fa" prefix
