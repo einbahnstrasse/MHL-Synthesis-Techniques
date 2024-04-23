@@ -242,7 +242,7 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
 * [Tristan Murail, _Atlantys_ (1984)](https://youtu.be/rnwoUFhxQLo?si=1mDzM7-voHq_brv_){:target="_blank"}       
    
 {% include video id="rnwoUFhxQLo?si=1mDzM7-voHq_brv_" provider="youtube" %}    
-      <!-- sd -->
+      <!-- dfdfd -->
 #### Assignments   
 * Respond to the [Week 4 Discord Reaction Post](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/week-04-discord-reaction/){:target="_blank"}   assignment before class next week!  
 * **Finish these patches** we made in class:   
