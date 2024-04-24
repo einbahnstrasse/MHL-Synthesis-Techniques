@@ -58,6 +58,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - faraday-retry
   # - jekyll-toc  
 
 author:
