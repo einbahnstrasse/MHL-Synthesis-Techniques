@@ -188,7 +188,6 @@ Source: Fitz, Kelly. “Sound Modeling and Morphing.”
   - `additive.07.synth.maxpat`  
   - `additive.08.sine.bank.maxpat` _(postponed until further notice)_    
   - `additive.09.power.law.maxpat` _(postponed until further notice)_    
-  - `random.notes.maxpat` _(postponed until further notice)_     
   
 * Also, for next week (optional): For our modulation synthesis week, we'll be taking a trip **back to the 80s**. For reasons that will become clear soon, it's pretty much gonna be an 80s party. I can't promise that I _won't_ be wearing some 80s stuff, so feel free to join in if you like that vibe!   
    
@@ -242,12 +241,13 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
 * [Tristan Murail, _Atlantys_ (1984)](https://youtu.be/rnwoUFhxQLo?si=1mDzM7-voHq_brv_){:target="_blank"}       
    
 {% include video id="rnwoUFhxQLo?si=1mDzM7-voHq_brv_" provider="youtube" %}    
-      <!-- dfdfd -->
+     
 #### Assignments   
 * Respond to the [Week 4 Discord Reaction Post](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/week-04-discord-reaction/){:target="_blank"}   assignment before class next week!  
 * **Finish these patches** we made in class:   
+  - `random.notes.maxpat`       
   - `01.RM.AM.FM.on.Waveforms.maxpat`  
-  - `02.RM.AM.on.Sounds.maxpat`  
+  - `02.RM.AM.on.Sounds.maxpat` _(postponed until further notice)_    
 
 #### Terms, Concepts, Objects, Shortcuts   
 - modulation   
