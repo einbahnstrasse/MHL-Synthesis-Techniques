@@ -14,6 +14,7 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
+  gem 'faraday-retry' # adding 24 april
   # gem "jekyll-toc"  
 end
 
