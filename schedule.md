@@ -243,11 +243,15 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
 {% include video id="rnwoUFhxQLo?si=1mDzM7-voHq_brv_" provider="youtube" %}    
      
 #### Assignments   
+* **Complete our patches** using the [video tutorial](https://youtu.be/BGf7V3CZpwI){:target="_blank"} below, **this weekend if possible, or by Week 6** at the latest:   
+   
+{% include video id="BGf7V3CZpwI" provider="youtube" %}    
+
 * Respond to the [Week 4 Discord Reaction Post](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/week-04-discord-reaction/){:target="_blank"}   assignment before class next week!  
 * **Finish these patches** we made in class:   
-  - `random.notes.maxpat`       
+  - `random.notes.maxpat` _(in Week 1 folder and in _scaffold.v01.maxpat)_       
   - `01.RM.AM.FM.on.Waveforms.maxpat`  
-  - `02.RM.AM.on.Sounds.maxpat` _(postponed until further notice)_    
+  - `02.RM.AM.on.Sounds.maxpat`      
 
 #### Terms, Concepts, Objects, Shortcuts   
 - modulation   
