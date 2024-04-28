@@ -296,6 +296,7 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
   - `live.processing.v02.flanging.maxpat`    
   - `live.processing.v03.harmonizer.maxpat`    
   - `live.processing.v04.envelope.follower.maxpat`   
+  - `live.processing.v05.transient.detection.maxpat`   
 
 #### Terms, Concepts, Objects, Shortcuts   
 - real-time synthesis   
