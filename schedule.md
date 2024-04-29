@@ -284,6 +284,10 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
 
 {% include video id="ByTsISFXUoY?si=eqtXaZ1cI9kbZd9p" provider="youtube" %}    
    
+#### Downloads   
+
+* [**Live Processing** Boiler Patches](https://github.com/einbahnstrasse/live.processing.boiler){:target="_blank"}  
+
 #### Listening   
 * [Sam Pluta and Peter Evans, _Third Piece_, Live at Roulette (2014)](https://vimeo.com/114201582){:target="_blank"}      
   
