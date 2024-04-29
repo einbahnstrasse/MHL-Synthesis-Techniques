@@ -311,6 +311,8 @@ _In many modern digital audio programs and soundcards, the use of **anti-aliasin
 #### Terms, Concepts, Objects, Shortcuts   
 - real-time synthesis   
 - live input signal  
+- aliasing   
+- Nyquist rate   
 - delay line    
 - flanger   
 - harmonizer   
