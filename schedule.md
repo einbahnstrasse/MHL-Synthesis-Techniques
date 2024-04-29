@@ -286,7 +286,7 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
 
 * MSP Audio Input Chain (Including Anti-Aliasing Filters):     
 
-<img src="/MHL-Synthesis-Techniques/assets/images//Users/louisgoldford/Desktop/myClasses/z.divers/_synth.tech.planning/nyquist/msp.audio.input.chain.png" alt="MSP Audio Input Chain" width="100%">  
+<img src="/MHL-Synthesis-Techniques/assets/images/msp.audio.input.chain.png" alt="MSP Audio Input Chain" width="100%">  
 
 _In many modern digital audio programs and soundcards, the use of **anti-aliasing filters** can be used to remove frequencies above the Nyquist rate, and therefore **avoid aliasing artefacts**. Above is an example of how this is accomplished in MaxMSP._   
 
