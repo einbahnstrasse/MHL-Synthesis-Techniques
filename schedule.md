@@ -317,10 +317,13 @@ _In many modern digital audio programs and soundcards, the use of **anti-aliasin
 - flanger   
 - harmonizer   
 - envelope follower   
+- transient detection   
+- feedback (or, "reinjection loop")   
 - `<tapin~>`  
 - `<tapout~>`  
 - `<pitchshift~>`  
 - `<peakamp~>`  
+- `<slide~>`   
 
 * * *   
 
