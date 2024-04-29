@@ -283,7 +283,13 @@ _Or, you can simply select each chapter in the video player's timeline below (vi
 * [Wagon Wheel Effect Example Due to Undersampling](https://youtu.be/ByTsISFXUoY?si=eqtXaZ1cI9kbZd9p){:target="_blank"}     
 
 {% include video id="ByTsISFXUoY?si=eqtXaZ1cI9kbZd9p" provider="youtube" %}    
-   
+
+* MSP Audio Input Chain (Including Anti-Aliasing Filters):     
+
+<img src="/MHL-Synthesis-Techniques/assets/images//Users/louisgoldford/Desktop/myClasses/z.divers/_synth.tech.planning/nyquist/msp.audio.input.chain.png" alt="MSP Audio Input Chain" width="100%">  
+
+_In many modern digital audio programs and soundcards, the use of **anti-aliasing filters** can be used to remove frequencies above the Nyquist rate, and therefore **avoid aliasing artefacts**. Above is an example of how this is accomplished in MaxMSP._   
+
 #### Downloads   
 
 * [**Live Processing** Boiler Patches](https://github.com/einbahnstrasse/live.processing.boiler){:target="_blank"}  
