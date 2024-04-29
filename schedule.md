@@ -346,6 +346,7 @@ _In many modern digital audio programs and soundcards, the use of **anti-aliasin
 {% include video id="NBteiaa31iI?si=rUsWraS6wQWfv0ee" provider="youtube" %}    
 
 #### Assignments  
+* [Study the **Debugging in MaxMSP** slides)](https://einbahnstrasse.github.io/MHL-Debugging-in-Max/){:target="_blank"}   
 * <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>  
 * **Finish these patches** we made in class:   
   - `05.one.zero.filter.maxpat`  
