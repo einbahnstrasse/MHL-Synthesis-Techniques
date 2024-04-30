@@ -300,6 +300,7 @@ _In many modern digital audio programs and soundcards, the use of **anti-aliasin
 {% include video id="114201582" provider="vimeo" %}      
         
 #### Assignments   
+* [Week 5 Discord Listening Reflections (due before next class!)](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/week-5-listening/){:target="_blank"}    
 * Reminder: Next week's class is on Zoom! _(see link below)_    
 * **Finish these patches** we made in class:   
   - `live.processing.v01.delay.line.maxpat`      
