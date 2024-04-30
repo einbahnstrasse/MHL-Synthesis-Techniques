@@ -300,7 +300,7 @@ _In many modern digital audio programs and soundcards, the use of **anti-aliasin
 {% include video id="114201582" provider="vimeo" %}      
         
 #### Assignments   
-* **Complete our patches** using this week's [video tutorial](https://youtu.be/sdw0xN_1Qdg){:target="_blank"} below, **this weekend if possible, or by Week 6** at the latest:   
+* **Complete our patches** using this week's [video tutorial](https://youtu.be/sdw0xN_1Qdg){:target="_blank"} below, **this weekend if possible, or by Week 7** at the latest:   
    
 {% include video id="sdw0xN_1Qdg" provider="youtube" %}    
 
