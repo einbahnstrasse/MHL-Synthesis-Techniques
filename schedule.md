@@ -356,7 +356,7 @@ _In many modern digital audio programs and soundcards, the use of **anti-aliasin
 * <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>  
 * **Finish these patches** we made in class:   
   - `05.one.zero.filter.maxpat`  
-  - `05a.one.zero.test.maxpat`  
+  - `05a.one.zero.main.patch.maxpat`  
   - ~~`06b.comb.object.maxpat`~~ _(postponed until further notice)_    
   - ~~`07.moog.style.synth.maxpat`~~ _(postponed until further notice)_    
 
