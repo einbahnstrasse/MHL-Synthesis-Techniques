@@ -444,7 +444,8 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 {% include video id="K-FjnKiDWQc?si=oj3whzvwrBqZP0P-" provider="youtube" %}    
    
 #### Assignments    
-* Introduce + assign the Final Project, due in Week 15 _(A small project to be shared in class, a working patch, a small design, nothing big. Details coming soon.)_    
+* [Introduce + assign the Final Project](https://einbahnstrasse.github.io/MHL-Physical-Modeling/final-project/){:target="_blank"}   
+* **due by Week 15 Monday night July 8 by 20:00**       
 * **Finish these patches** we made in class:   
   - `01.tape.transformation.maxpat`  
   - `02.sampler.instrument.maxpat`  
