@@ -53,7 +53,7 @@ By the deadline below, send me a **project folder** (by email, WeTransfer.com, o
 
 Checkpoints are opportunities for me to evaluate your work as the semester continues. By the dates below, I will need to see evidence of your progress towards the final deadline:   
    
-* **1st Checkpoint**: week 9: {{ site.week-10 }}   
+* **1st Checkpoint**: week 10: {{ site.week-10 }}   
     - Share your initial plans, sounds, compositional, algorithms, or musical ideas   
     - At least 1 small Max patch demonstrating your work with our course materials   
 * **2nd Checkpoint**: Week 12: {{ site.week-12 }}   
