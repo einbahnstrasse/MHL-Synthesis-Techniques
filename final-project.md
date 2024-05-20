@@ -34,7 +34,7 @@ Your piece should **include the synthesis techniques and tools** we explored thi
 
 Each week in class we have developed one synthesizer at a time. Your final project **must include at least 2 synthesizers or sound sources in an expressive series of events that change their parameters over time**. Use our in-class patches as the basic building blocks for a larger creative structure of your own.  
 
-To give your piece _shape_ and an _event management structure_, use the [Concert _My Magnum Opus_ Boiler Patches](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"} that **we will build together in week 9** on {{ site.week-10 }}. _In other words, be sure you are present in week 9 for this very important tutorial!_ This boiler patch allows you to place many synthesizers into a single patch, along with input and ouput control, and to shape a concert piece or installation with many individual "moments."    
+To give your piece _shape_ and an _event management structure_, use the [_My Magnum Opus_ Concert Boiler Patches](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"} that **we will build together in week 9** on {{ site.week-10 }}. _In other words, be sure you are present in week 9 for this very important tutorial!_ This boiler patch allows you to place many synthesizers into a single patch, along with input and ouput control, and to shape a concert piece or installation with many individual "moments."    
 
 You can also use our Final Exam piece as an opportunity to develop a new piece for any other recital or commission obligation at MHL or elsewhere, but it **must meet the requirements of our exam as detailed below**. 
 
@@ -60,7 +60,7 @@ Checkpoints are opportunities for me to evaluate your work as the semester conti
     - 2-3 presets with evidence of your control over synthesis           
     - Your ideas about _transitions_ between these 2-3 "states"  
 * **3rd Concert Patch Checkpoint**: Week 13: {{ site.week-13 }}  
-    - Your concert patch (_in progress_) **must take the form of the template** built in week 9: [Concert _My Magnum Opus_ Boiler Patches](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"}   
+    - Your concert patch (_in progress_) **must take the form of the template** built in week 9: [_My Magnum Opus_ Concert Boiler Patches](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"}   
     - Individual **events** should now be numbered and coded into your patch   
     - revisions will be sent to you by email or Discord; 
     - **_you must finish revisions before the final deadline!_**
@@ -73,7 +73,7 @@ We may also schedule **individual meetings** around the time of these deadlines 
 
 ### 3. Things Your Project Should Have   
 
-The elements described below are already available to you in the [Concert _My Magnum Opus_ Boiler Patches](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"}    template we will build in our previous semesters. Your project must reproduce this basic structure as a minimum requirement:      
+The elements described below are already available to you in the [_My Magnum Opus_ Concert Boiler Patches](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"}    template we will build in our previous semesters. Your project must reproduce this basic structure as a minimum requirement:      
 
 1. A **folder** of your patches, abstractions, or other dependencies. Your folder structure should look like this:   
   
