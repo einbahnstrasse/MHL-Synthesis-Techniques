@@ -468,7 +468,7 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 ## Week 9: {{ site.week-09 }}  
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-09-topic }}</span>    
 
-#### Tutorials    
+#### Downloads       
 * [_MyMagnumOpus_ Concert Patch Boiler](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"}   
 
 #### Listening   
