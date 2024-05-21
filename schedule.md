@@ -475,6 +475,7 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 
 #### Assignments   
 * Start assembling your project using today's concert patch boiler!  
+* **Install the MiraWeb package** before our next class _(see [Using the Package Manager](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/resources/#using-the-max-package-manager) on our Resources page.)_   
 * **Finish these patches** we made in class:   
   - `_MAIN.PATCH.template.maxpat`  
   - `lg.ping.v02.maxpat`   
