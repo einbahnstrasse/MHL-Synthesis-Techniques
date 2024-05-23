@@ -447,7 +447,7 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 * [Introduce + assign the Final Project](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/final-project/){:target="_blank"}   
 * **due by Week 15 Monday night July 8 by 20:00**       
 * **Finish these patches** we made in class:   
-  - `01.tape.transformation.maxpat`  
+  - ~~`01.tape.transformation.maxpat`~~ _(postponed until further notice)_   
   - `02.sampler.instrument.maxpat`  
 
 <!-- <iframe src="https://player.vimeo.com/video/371859612?h=bb2544d760&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>   -->
