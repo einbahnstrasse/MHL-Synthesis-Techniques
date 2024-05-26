@@ -395,7 +395,7 @@ _In many modern digital audio programs and soundcards, the use of **anti-aliasin
 * **Finish these patches** we made in class:   
   - `03.wavetable.synth.maxpat`  
   - `04.waveshaping.maxpat`  
-  - `05.waveshaping.bands.maxpat`  
+  - ~~`05.waveshaping.bands.maxpat`~~ _(postponed until further notice)_   
   - `06.wavefolder.maxpat`  
 
 #### Terms, Concepts, Objects, Shortcuts   
@@ -503,7 +503,8 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 
 #### Assignments   
 * **Finish these patches** we made in class:   
-  - _Patch list coming soon!_   
+  - `01.presentation.mode.maxpat`      
+  - `02.miraweb.maxpat`   
 
 <!-- interface design -->
 #### Terms, Concepts, Objects, Shortcuts   
