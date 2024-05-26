@@ -501,13 +501,17 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-10-topic }}</span>    
 
 #### Tutorials  
+* [Presentation Mode](https://docs.cycling74.com/max8/vignettes/presentation_mode){:target="_blank"}  
+* [Visualizing Unsupported UI Objects in Mira / Miraweb](https://comprovisador.wordpress.com/max-abstractions/){:target="_blank"}  
+
 
 #### Listening   
 
 #### Assignments   
 * **Finish these patches** we made in class:   
   - `01.presentation.mode.maxpat`      
-  - `02.miraweb.maxpat`   
+  - `02.miraweb.basic.maxpat`   
+  - `03.miraweb.bach.maxpat`   
 
 <!-- interface design -->
 #### Terms, Concepts, Objects, Shortcuts   
