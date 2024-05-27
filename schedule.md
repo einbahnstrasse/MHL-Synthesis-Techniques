@@ -492,6 +492,7 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 - abstraction    
 - initialization ("init")   
 - rewind to event    
+- debounce  
 - `<preset>`  
 - `<counter>`   
 
