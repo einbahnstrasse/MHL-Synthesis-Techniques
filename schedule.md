@@ -475,6 +475,7 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 * [_MyMagnumOpus_ Concert Patch Boiler](https://github.com/einbahnstrasse/MHL-CAO-spat-boiler){:target="_blank"}   
 
 #### Listening   
+* [**Stylianos Dimou**: Download Scores and Audio Recordings to Listen to Before Next Week's Guest Lecture!](https://drive.google.com/drive/folders/1HcTLnYlq3up_sCQ3rjdJwwS7NYpad5f5?usp=sharing){:target="_blank"}   
 
 #### Assignments   
 * Start assembling your project using today's concert patch boiler!  
