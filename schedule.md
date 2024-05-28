@@ -483,7 +483,7 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 * **Finish these patches** we made in class:   
   - `_MAIN.PATCH.template.maxpat`  
   - `lg.ping.v02.maxpat`   
-* prepare for our guest Stylianos Dimou next week _(stand by for materials to examine, which will be posted here later)_   
+* prepare for our guest **Stylianos Dimou** next week _(see Listening Section above!)_   
 
 <!-- event mgmt -->  
 #### Terms, Concepts, Objects, Shortcuts   
