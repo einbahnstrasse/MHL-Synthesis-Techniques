@@ -483,6 +483,10 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 * **Finish these patches** we made in class:   
   - `_MAIN.PATCH.template.maxpat`  
   - `lg.ping.v02.maxpat`   
+* [Video Tutorial: Finishing the Main Patch](https://youtu.be/i_qNmnw8qP8?si=Cs4hr2_imLvoMbbY){:target="_blank"}       
+   
+{% include video id="i_qNmnw8qP8?si=Cs4hr2_imLvoMbbY" provider="youtube" %}    
+   
 * prepare for our guest **Stylianos Dimou** next week _(see Listening Section above!)_   
 
 <!-- event mgmt -->  
