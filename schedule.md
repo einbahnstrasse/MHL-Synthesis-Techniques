@@ -508,6 +508,7 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 
 #### Tutorials  
 * [Presentation Mode](https://docs.cycling74.com/max8/vignettes/presentation_mode){:target="_blank"}  
+* [_Node for Max_ QR Code Generator](https://github.com/avantcontra/n4m-qrcode-generator){:target="_blank"}    
 * [Visualizing Unsupported UI Objects in Mira / Miraweb](https://comprovisador.wordpress.com/max-abstractions/){:target="_blank"}  
 
 
@@ -515,9 +516,7 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 
 #### Assignments   
 * **Finish these patches** we made in class:   
-  - `01.presentation.mode.maxpat`      
-  - `02.miraweb.basic.maxpat`   
-  - `03.miraweb.bach.maxpat`   
+  - _revised patches from last week_    
 
 <!-- interface design -->
 #### Terms, Concepts, Objects, Shortcuts   
