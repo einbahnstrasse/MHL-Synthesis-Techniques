@@ -527,6 +527,7 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 - presentation mode     
 - UI objects: buttons, toggles, dials, sliders, meters, etc.    
 - `<mira.frame>`  
+- `<mira.status>`   
 - network IP address  
 
 * * *
