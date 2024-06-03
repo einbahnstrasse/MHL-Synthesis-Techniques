@@ -510,7 +510,9 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 * [Presentation Mode](https://docs.cycling74.com/max8/vignettes/presentation_mode){:target="_blank"}  
 * [_Node for Max_ QR Code Generator](https://github.com/avantcontra/n4m-qrcode-generator){:target="_blank"}    
 * [Visualizing Unsupported UI Objects in Mira / Miraweb](https://comprovisador.wordpress.com/max-abstractions/){:target="_blank"}  
-
+  
+#### Downloads  
+* [UX Figma Assets](https://github.com/einbahnstrasse/UX-figma-v01){:target="_blank"}   
 
 #### Listening   
 
@@ -525,8 +527,6 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 - presentation mode     
 - UI objects: buttons, toggles, dials, sliders, meters, etc.    
 - `<mira.frame>`  
-- `<mira.multitouch>`  
-- `<mira.motion>`  
 - network IP address  
 
 * * *
