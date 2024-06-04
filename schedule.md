@@ -517,6 +517,7 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 #### Listening   
 
 #### Assignments   
+* return any **XLR cables** that you borrowed earlier this semester.
 * Review the [guest lecture by composer Stylianos Dimou](https://youtu.be/3a1UOda_vU8?si=h3tAOWPDBloEXEY2){:target="_blank"} and post questions and comments in our Discord before our next class:   
 
 {% include video id="3a1UOda_vU8?si=h3tAOWPDBloEXEY2" provider="youtube" %}    
