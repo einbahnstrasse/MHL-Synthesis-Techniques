@@ -517,8 +517,12 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 #### Listening   
 
 #### Assignments   
+* Review the [guest lecture by composer Stylianos Dimou](https://youtu.be/3a1UOda_vU8?si=h3tAOWPDBloEXEY2){:target="_blank"} and post questions and comments in our Discord before our next class:   
+
+{% include video id="3a1UOda_vU8?si=h3tAOWPDBloEXEY2" provider="youtube" %}    
+   
 * **Finish these patches** we made in class:   
-  - _revised patches from last week_    
+  - _revised patches from Week 9_    
 
 <!-- interface design -->
 #### Terms, Concepts, Objects, Shortcuts   
