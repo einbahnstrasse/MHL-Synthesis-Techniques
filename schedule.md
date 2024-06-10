@@ -555,11 +555,15 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 #### Assignments   
 <!-- * [Concert Patch Checkpoint](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/final-mixed-piece/#21-checkpoints){:target="_blank"}     -->
 * **Finish these patches** we made in class:   
-  - _Patch list coming soon!_   
+  - `make.melodic.profile.v01.maxpat`   
+  - `cheap.polyphony.v01.maxpat`   
+  - `serial.tranformations.v01.maxpat`    
+  - `euclidean.rhythms.v01.maxpat`   
 
 <!-- cao -->
 #### Terms, Concepts, Objects, Shortcuts   
-- computer-assisted composition (cao)   
+- computer-assisted composition (CAO)   
+- Euclidean sequence/pattern   
 - generative algorithm   
 - proportional notation   
 - chord  
@@ -570,6 +574,8 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 - `<bach.roll>`  
 - `<bach.unpack>`  
 - `<bach.mc2f>`  
+- `<bach.score>`  
+- `<bach.beatbox>`   
 
 * * *
 
