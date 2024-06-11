@@ -555,9 +555,9 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 #### Assignments   
 <!-- * [Concert Patch Checkpoint](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/final-mixed-piece/#21-checkpoints){:target="_blank"}     -->
 * **Finish these patches** we made in class:   
-  - `make.melodic.profile.v01.maxpat`   
+  - ~~`make.melodic.profile.v01.maxpat`~~ _(postponed until further notice)_    
   - `cheap.polyphony.v01.maxpat`   
-  - `serial.tranformations.v01.maxpat`    
+  - `lg.simple.synth.maxpat`    
   - `euclidean.rhythms.v01.maxpat`   
 
 <!-- cao -->
