@@ -582,8 +582,9 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 ## Week 12: {{ site.week-12 }}   
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-12-topic }}</span>    
 
-#### Tutorials  
-
+#### Warmup Challenge        
+<img src="/MHL-Synthesis-Techniques/assets/images/warmup-v01.png" alt="warmup-v01">
+   
 #### Listening   
 * [Iannis Xenakis, _Concret PH_ (1958)](https://youtu.be/S9zMaIhuMgo?si=LfMMqKln_F8cVX2j){:target="_blank"}       
    
