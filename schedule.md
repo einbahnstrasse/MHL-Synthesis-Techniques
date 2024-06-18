@@ -596,8 +596,8 @@ _**Watch the first 23 minutes**, or more if you're interested_.
   
 #### Assignments  
 * **Finish these patches** we made in class:   
-  - `01.granular.sampler.instrument.maxpat`  
-  - `02.munger.maxpat`  
+  - `02.sampler.instrument.v02.granular.maxpat`  
+  - `03.munger.maxpat`  
 
 <!-- granular -->
 #### Terms, Concepts, Objects, Shortcuts   
