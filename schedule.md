@@ -618,7 +618,14 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 ## Week 13: {{ site.week-13 }}  
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-13-topic }}</span>    
 
-#### Tutorials  
+#### Tutorials      
+* **Time Domain** and **Frequency Domain** Representations of a 50 Hz. Sine Wave:   
+
+<img src="/MHL-Synthesis-Techniques/assets/images/representations.of.signals.v01b.png" alt="auto-generated subtitles" width="200">  
+
+
+
+#### Downloads     
 * [Introduction to `<pfft~>` Boiler Patches](https://github.com/einbahnstrasse/pfft.boiler){:target="_blank"}     
 
 #### Listening   
