@@ -626,7 +626,7 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 
 <img src="/MHL-Synthesis-Techniques/assets/images/representations.of.signals.v01.png" alt="time-and-frequency-domains">  
 
-* How to Move from the Time to the Frequency Domain:   
+* How to Move from the **Time** to the **Frequency Domain**:   
 
 <img src="/MHL-Synthesis-Techniques/assets/images/time-to-frequency-domains.v01.png" alt="time-and-frequency-domains">  
    
@@ -645,6 +645,7 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 <!-- realtime pfft~ -->
 #### Terms, Concepts, Objects, Shortcuts   
 - frequency domain  
+- time domain   
 - Fast Fourier Transform (FFT)  
 - spectrogram  
 - real numbers  
