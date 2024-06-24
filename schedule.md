@@ -639,23 +639,33 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 * **Finish these patches** we made in class:   
   - `01.multiband.filter.maxpat`  
   - `multiband.pfftCore.maxpat`  
+  - `02.freeze.frame.maxpat`    
+  - `freeze.polyCore.maxpat`   
 
 <!-- realtime pfft~ -->
 #### Terms, Concepts, Objects, Shortcuts   
 - frequency domain  
 - Fast Fourier Transform (FFT)  
 - spectrogram  
-- real numbers   
+- real numbers  
+- imaginary numbers   
 - FFT size  
 - spectral frame size   
 - hop size   
-- imaginary numbers   
 - multiband filter   
+- freeze 
 - `<pfft~>`  
 - `<fftin~>`  
 - `<fftout~>`  
 - `<dspstate~>`  
-
+- `<cartopol~>`    
+- `<poltocar~>`    
+- `<framedelta~>`    
+- `<frameaccum~>`   
+- `<record~>`    
+- `<buffer~>`   
+- `<index~>`   
+   
 * * *
 
 ## Week 14: {{ site.week-14 }}  
