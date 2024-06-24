@@ -621,7 +621,7 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 #### Tutorials      
 * **Time Domain** and **Frequency Domain** Representations of a 50 Hz. Sine Wave:   
 
-<img src="/MHL-Synthesis-Techniques/assets/images/representations.of.signals.v01b.png" alt="auto-generated subtitles" width="200">  
+<img src="/MHL-Synthesis-Techniques/assets/images/representations.of.signals.v01b.png" alt="time-and-frequency-domains">  
 
 
 
