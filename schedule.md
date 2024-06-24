@@ -583,7 +583,7 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-12-topic }}</span>    
 
 #### Warmup Challenge        
-<img src="/MHL-Synthesis-Techniques/assets/images/warmup-v01.png" alt="warmup-v01">
+<img src="/MHL-Synthesis-Techniques/assets/images/warmup-v01.png" alt="warmup-v01">   
    
 #### Listening   
 * [Iannis Xenakis, _Concret PH_ (1958)](https://youtu.be/S9zMaIhuMgo?si=LfMMqKln_F8cVX2j){:target="_blank"}       
@@ -617,6 +617,9 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 
 ## Week 13: {{ site.week-13 }}  
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-13-topic }}</span>    
+
+#### Warmup Challenge        
+<img src="/MHL-Synthesis-Techniques/assets/images/warmup-v02.png" alt="warmup-v02">   
 
 #### Tutorials      
 * **Time Domain** and **Frequency Domain** Representations of a 50 Hz. Sine Wave:   
