@@ -622,9 +622,13 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 <img src="/MHL-Synthesis-Techniques/assets/images/warmup-v02.png" alt="warmup-v02">    -->
 
 #### Tutorials      
-* **Time Domain** and **Frequency Domain** Representations of a 50 Hz. Sine Wave:   
+* **Time** and **Frequency Domain** Representations of a 50 Hz Sine Wave:   
 
 <img src="/MHL-Synthesis-Techniques/assets/images/representations.of.signals.v01.png" alt="time-and-frequency-domains">  
+
+* How to Move from the Time to the Frequency Domain:   
+
+<img src="/MHL-Synthesis-Techniques/assets/images/time-to-frequency-domains.v01.png" alt="time-and-frequency-domains">  
    
 #### Downloads     
 * [Introduction to `<pfft~>` Boiler Patches](https://github.com/einbahnstrasse/pfft.boiler){:target="_blank"}     
