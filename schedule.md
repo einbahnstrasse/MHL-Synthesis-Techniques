@@ -618,8 +618,8 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 ## Week 13: {{ site.week-13 }}  
 ### <span style="color: #fc3a52; font-size: 120%; ">{{ site.week-13-topic }}</span>    
 
-#### Warmup Challenge        
-<img src="/MHL-Synthesis-Techniques/assets/images/warmup-v02.png" alt="warmup-v02">   
+<!-- #### Warmup Challenge        
+<img src="/MHL-Synthesis-Techniques/assets/images/warmup-v02.png" alt="warmup-v02">    -->
 
 #### Tutorials      
 * **Time Domain** and **Frequency Domain** Representations of a 50 Hz. Sine Wave:   
