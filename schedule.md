@@ -637,8 +637,8 @@ _**Watch the first 23 minutes**, or more if you're interested_.
  
 #### Assignments   
 * **Finish these patches** we made in class:   
-  - `01.multiband.filter.maxpat`  
-  - `multiband.pfftCore.maxpat`  
+  - ~~`01.multiband.filter.maxpat`~~ _(video tutorial coming soon...)_   
+  - ~~`multiband.pfftCore.maxpat`~~ _(video tutorial coming soon...)_    
   - `02.freeze.frame.maxpat`    
   - `freeze.pfftCore.maxpat`   
 
