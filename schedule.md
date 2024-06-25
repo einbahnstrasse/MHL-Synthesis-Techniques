@@ -640,7 +640,7 @@ _**Watch the first 23 minutes**, or more if you're interested_.
   - `01.multiband.filter.maxpat`  
   - `multiband.pfftCore.maxpat`  
   - `02.freeze.frame.maxpat`    
-  - `freeze.polyCore.maxpat`   
+  - `freeze.pfftCore.maxpat`   
 
 <!-- realtime pfft~ -->
 #### Terms, Concepts, Objects, Shortcuts   
