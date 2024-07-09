@@ -186,8 +186,8 @@ Source: Fitz, Kelly. “Sound Modeling and Morphing.”
 * **Assign** the [Microphone Cable Coiling](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/xlr-cable-coiling/){:target="_blank"} Assignment (due in Week 6).  
 * **Finish these patches** we made in class:   
   - `additive.07.synth.maxpat`  
-  - ~~`additive.08.sine.bank.maxpat`~~ _(postponed until further notice)_    
-  - ~~`additive.09.power.law.maxpat`~~ _(postponed until further notice)_    
+  - ~~`additive.08.sine.bank.maxpat`~~ _(cancelled)_    
+  - ~~`additive.09.power.law.maxpat`~~ _(cancelled)_    
   
 * Also, for next week (optional): For our modulation synthesis week, we'll be taking a trip **back to the 80s**. For reasons that will become clear soon, it's pretty much gonna be an 80s party. I can't promise that I _won't_ be wearing some 80s stuff, so feel free to join in if you like that vibe!   
    
@@ -357,8 +357,8 @@ _In many modern digital audio programs and soundcards, the use of **anti-aliasin
 * **Finish these patches** we made in class:   
   - `05.one.zero.filter.maxpat`  
   - `05a.one.zero.main.patch.maxpat`  
-  - ~~`06b.comb.object.maxpat`~~ _(postponed until further notice)_    
-  - ~~`07.moog.style.synth.maxpat`~~ _(postponed until further notice)_    
+  - ~~`06b.comb.object.maxpat`~~ _(cancelled)_    
+  - ~~`07.moog.style.synth.maxpat`~~ _(cancelled)_    
 
 #### Terms, Concepts, Objects, Shortcuts   
 - subtractive synthesis   
@@ -395,7 +395,7 @@ _In many modern digital audio programs and soundcards, the use of **anti-aliasin
 * **Finish these patches** we made in class:   
   - `03.wavetable.synth.maxpat`  
   - `04.waveshaping.maxpat`  
-  - ~~`05.waveshaping.bands.maxpat`~~ _(postponed until further notice)_   
+  - ~~`05.waveshaping.bands.maxpat`~~ _(cancelled)_   
   - `06.wavefolder.maxpat`  
 
 #### Terms, Concepts, Objects, Shortcuts   
@@ -447,7 +447,7 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 * [Introduce + assign the Final Project](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/final-project/){:target="_blank"}   
 * **due by Week 15 Monday night July 8 by 20:00**       
 * **Finish these patches** we made in class:   
-  - ~~`01.tape.transformation.maxpat`~~ _(postponed until further notice)_   
+  - ~~`01.tape.transformation.maxpat`~~ _(cancelled)_   
   - `02.sampler.instrument.maxpat`  
 
 <!-- <iframe src="https://player.vimeo.com/video/371859612?h=bb2544d760&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>   -->
@@ -555,7 +555,7 @@ _**Watch the first 23 minutes**, or more if you're interested_.
 #### Assignments   
 <!-- * [Concert Patch Checkpoint](https://einbahnstrasse.github.io/MHL-Synthesis-Techniques/final-mixed-piece/#21-checkpoints){:target="_blank"}     -->
 * **Finish these patches** we made in class:   
-  - ~~`make.melodic.profile.v01.maxpat`~~ _(postponed until further notice)_    
+  - ~~`make.melodic.profile.v01.maxpat`~~ _(cancelled)_    
   - `cheap.polyphony.v01.maxpat`   
   - `lg.simple.synth.maxpat`    
   - `euclidean.rhythms.v01.maxpat`   
