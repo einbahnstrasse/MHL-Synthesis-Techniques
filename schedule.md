@@ -637,8 +637,6 @@ _**Watch the first 23 minutes**, or more if you're interested_.
  
 #### Assignments   
 * **Finish these patches** we made in class:   
-  - ~~`01.multiband.filter.maxpat`~~ _(video tutorial coming soon...)_   
-  - ~~`multiband.pfftCore.maxpat`~~ _(video tutorial coming soon...)_    
   - `02.freeze.frame.maxpat`    
   - `freeze.pfftCore.maxpat`   
 
@@ -682,10 +680,12 @@ _**Watch the first 23 minutes**, or more if you're interested_.
       
 #### Assignments  
 * **Finish these patches** we made in class:   
-  - `quad.panner.v01.maxpat`  
-  - `_MAIN.PATCH.template.maxpat`  
-  - `lg.spat.v01.maxpat`   
-  - `lg.sound.out.v02.maxpat`   
+  - `01.multiband.filter.maxpat` _(continued from previous week)_   
+  - `multiband.pfftCore.maxpat` _(continued from previous week)_       
+  - ~~`quad.panner.v01.maxpat`~~    
+  - ~~`_MAIN.PATCH.template.maxpat`~~    
+  - ~~`lg.spat.v01.maxpat`~~     
+  - ~~`lg.sound.out.v02.maxpat`~~     
 
 <!-- spatial -->
 #### Terms, Concepts, Objects, Shortcuts   
